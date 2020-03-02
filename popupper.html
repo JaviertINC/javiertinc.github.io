@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Popupper | @JaviertINC</title>
+    <style>
+        body{
+          	background-color: #222;
+            text-align: center;
+          }
+          div{
+          	display: flex !important;
+            max-width: 70%;
+            margin: 65px auto;
+          }
+          input{
+            padding: 15px;
+            width: 100%;
+            font-size: 20px;
+            border: 1px solid #4caf50;
+            border-radius: 5px 0 0 5px;
+            background-color: #555;
+            color: #4caf50;
+          }
+          a{
+          	padding: 16px;
+            font-size: 20px;
+            border: 1px solid #4caf50;
+            border-left: 0px;
+            border-radius: 0 5px 5px 0;
+            background-color: #555;
+            color: #4caf50;
+          }
+          a:hover{
+            background-color: #666;
+          }
+          a:active{
+            background-color: #888;
+          }
+          iframe{
+          	border: none;
+            margin: 0;
+            padding: 0;
+            width: 100vw;
+          }
+    </style>
+</head>
+
+<body>
+    <div>
+        <input type="text" id="url" onkeypress="enter(event)" placeholder="Enlace (se recomienda la versión Embed)">
+        <a onclick="popupper()">Abrir</a>
+    </div>
+    <iframe src="https://javiertinc.github.io/footer.html"></iframe>
+    <script>
+        function enter(e) {
+            if (e.keyCode == 13) {
+                popupper();
+            }
+        }
+        function popupper(){
+        	var url = document.getElementById("url").value;
+        	pop=window.open(url,'@JaviertINC','height=200,width=360,top=760, left=0');
+        	if (window.focus) {
+            	pop.focus()
+            }
+        	return false;
+        }
+    </script>
+
+</body>
+</html>
