@@ -245,8 +245,8 @@
     "multimedia": [
       {
         "name": "Photoshop",
-        "percent": "50",
-        "type": "2",
+        "percent": "75",
+        "type": "1",
         "class": "",
         "desc": ""
       },
@@ -275,28 +275,28 @@
     "offimatica": [
       {
         "name": "PowerPoint Office MS",
-        "percent": "75",
+        "percent": "85",
         "type": "1",
         "class": "",
         "desc": "Con ayuda de Photoshop, he creado presentaciones muy amigables y claras"
       },
       {
         "name": "Word Office MS",
-        "percent": "45",
+        "percent": "50",
         "type": "2",
         "class": "",
         "desc": ""
       },
       {
         "name": "Excel Office MS",
-        "percent": "55",
+        "percent": "65",
         "type": "2",
         "class": "",
         "desc": ""
       },
       {
         "name": "Word Libre Office",
-        "percent": "45",
+        "percent": "50",
         "type": "2",
         "class": "",
         "desc": ""
