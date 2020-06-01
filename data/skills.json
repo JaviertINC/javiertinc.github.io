@@ -99,13 +99,6 @@
       "desc": ""
     },
     {
-      "name": "WordPress",
-      "percent": "68",
-      "type": "1",
-      "class": "",
-      "desc": "He creado mis propios plugins y temas para uso personal y laboral"
-    },
-    {
       "name": "AutoHotKey",
       "percent": "45",
       "type": "2",
@@ -131,74 +124,177 @@
   ],
   "software": [
     {
-      "name": "VisualCode Studio",
-      "percent": "80",
-      "type": "1",
-      "class": "",
-      "desc": "He creado mis propias modificaciones para el programa"
+      "dev": [
+        {
+          "name": "VisualCode Studio",
+          "percent": "80",
+          "type": "1",
+          "class": "",
+          "desc": "He creado mis propias modificaciones para el programa"
+        },
+        {
+          "name": "GitHub",
+          "percent": "75",
+          "type": "1",
+          "class": "",
+          "desc": "Hago uso frecuente de esta plataforma"
+        },
+        {
+          "name": "WordPress",
+          "percent": "68",
+          "type": "1",
+          "class": "",
+          "desc": "He creado mis propios plugins y temas para uso personal y laboral"
+        },
+        {
+          "name": "Flutter",
+          "percent": "35",
+          "type": "2",
+          "class": "",
+          "desc": ""
+        },
+        {
+          "name": "Userscripts",
+          "percent": "95",
+          "type": "1",
+          "class": "",
+          "desc": "Hago uso frecuente de este Addon para modificar las páginas web que utilizo frecuentemente, ya sea para funcionalidad o para personalizar el estilo"
+        },
+        {
+          "name": "FileZilla",
+          "percent": "50",
+          "type": "2",
+          "class": "",
+          "desc": ""
+        },
+        {
+          "name": "NetBeans",
+          "percent": "38",
+          "type": "3",
+          "class": "",
+          "desc": ""
+        },
+        {
+          "name": "Notepad++",
+          "percent": "70",
+          "type": "1",
+          "class": "",
+          "desc": ""
+        },
+        {
+          "name": "cPanel",
+          "percent": "80",
+          "type": "1",
+          "class": "",
+          "desc": ""
+        },
+        {
+          "name": "WHM",
+          "percent": "80",
+          "type": "1",
+          "class": "",
+          "desc": ""
+        },
+        {
+          "name": "reCaptcha",
+          "percent": "80",
+          "type": "3",
+          "class": "",
+          "desc": ""
+        },
+        {
+          "name": "hCaptcha",
+          "percent": "85",
+          "type": "1",
+          "class": "",
+          "desc": "Está integrada en esta web y en varios de mis proyectos"
+        },
+        {
+          "name": "Trello",
+          "percent": "70",
+          "type": "1",
+          "class": "",
+          "desc": "Hago uso frecuente de esta plataforma para administrar de forma optima mis actividades y las de mis proyectos"
+        },
+        {
+          "name": "GitLab",
+          "percent": "20",
+          "type": "3",
+          "class": "",
+          "desc": ""
+        },
+        {
+          "name": "TimeDoctor Client",
+          "percent": "80",
+          "type": "2",
+          "class": "",
+          "desc": ""
+        }
+      ]
     },
     {
-      "name": "GitHub",
-      "percent": "75",
-      "type": "1",
-      "class": "",
-      "desc": "Hago uso frecuente de esta plataforma"
+      "multimedia": [
+        {
+          "name": "Photoshop",
+          "percent": "50",
+          "type": "2",
+          "class": "",
+          "desc": ""
+        },
+        {
+          "name": "FL Studio",
+          "percent": "25",
+          "type": "3",
+          "class": "",
+          "desc": "Modifico y mezclo canciones que me gustan"
+        },
+        {
+          "name": "Premier",
+          "percent": "15",
+          "type": "3",
+          "class": "",
+          "desc": ""
+        },
+        {
+          "name": "After Effects",
+          "percent": "20",
+          "type": "3",
+          "class": "",
+          "desc": ""
+        }
+      ]
     },
     {
-      "name": "Flutter",
-      "percent": "35",
-      "type": "2",
-      "class": "",
-      "desc": ""
-    },
-    {
-      "name": "Photoshop",
-      "percent": "50",
-      "type": "2",
-      "class": "",
-      "desc": ""
-    },
-    {
-      "name": "FL Studio",
-      "percent": "25",
-      "type": "3",
-      "class": "",
-      "desc": "Lo uso para modificar y mezclar las canciones que más me gustan"
-    },
-    {
-      "name": "Userscripts",
-      "percent": "95",
-      "type": "1",
-      "class": "",
-      "desc": "Hago uso frecuente de este Addon para modificar las páginas web que utilizo frecuentemente, ya sea para funcionalidad o para personalizar el estilo"
-    },
-    {
-      "name": "Premier",
-      "percent": "20",
-      "type": "3",
-      "class": "",
-      "desc": ""
-    },
-    {
-      "name": "After Effects",
-      "percent": "20",
-      "type": "3",
-      "class": "",
-      "desc": ""
-    },
-    {
-      "name": "FileZilla",
-      "percent": "50",
-      "type": "2",
-      "class": "",
-      "desc": ""
-    },
-    {
-      "name": "NetBeans",
-      "percent": "38",
-      "type": "3",
-      "class": "",
-      "desc": ""
+      "offimatica": [
+        {
+          "name": "PowerPoint Office MS",
+          "percent": "75",
+          "type": "1",
+          "class": "",
+          "desc": "Con ayuda de Photoshop, he creado presentaciones muy amigables y claras"
+        },
+        {
+          "name": "Word Office MS",
+          "percent": "45",
+          "type": "2",
+          "class": "",
+          "desc": ""
+        },
+        {
+          "name": "Excel Office MS",
+          "percent": "55",
+          "type": "2",
+          "class": "",
+          "desc": ""
+        },
+        {
+          "name": "Word Libre Office",
+          "percent": "45",
+          "type": "2",
+          "class": "",
+          "desc": ""
+        }
+      ]
     }
   ],
   "idiomas": [
