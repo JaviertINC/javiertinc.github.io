@@ -99,6 +99,20 @@
       "desc": ""
     },
     {
+      "name": "C",
+      "percent": "30",
+      "type": "3",
+      "class": "",
+      "desc": ""
+    },
+    {
+      "name": "C++",
+      "percent": "30",
+      "type": "3",
+      "class": "",
+      "desc": ""
+    },
+    {
       "name": "AutoHotKey",
       "percent": "45",
       "type": "2",
