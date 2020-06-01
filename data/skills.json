@@ -3,126 +3,188 @@
     {
       "name": "HTML5",
       "percent": "90",
-      "type": "1"
+      "type": "1",
+      "class": "",
+      "desc": ""
     },
     {
       "name": "CSS3",
       "percent": "95",
-      "type": "1"
+      "type": "1",
+      "class": "",
+      "desc": "Llevo más de 7 años desarrollando con esta tecnología, a pesar de que me faltan algunas cosas por aprender, siento que puedo hacer y deshacer cualquier diseño con este lenguaje"
     },
     {
       "name": "Javascript",
       "percent": "85",
-      "type": "1"
+      "type": "1",
+      "class": "",
+      "desc": "Me gusta mucho este lenguaje por su gran robustez"
     },
     {
       "name": "PHP",
       "percent": "75",
-      "type": "1"
+      "type": "1",
+      "class": "",
+      "desc": "He aprendido a optimizar aplicaciones Web utilizando este lenguaje y en Wordpress"
     },
     {
       "name": "JQuery",
       "percent": "65",
-      "type": "1"
+      "type": "1",
+      "class": "",
+      "desc": "Aún que me falta mucho por aprender, puedo lograr grandes funcionalidades con esta librería"
     },
     {
       "name": "Bootstrap",
       "percent": "88",
-      "type": "1"
+      "type": "1",
+      "class": "",
+      "desc": "He trabajado tanto con esta librería que me manejo muy bien con ella"
     },
     {
       "name": "React",
       "percent": "35",
-      "type": "2"
+      "type": "2",
+      "class": "",
+      "desc": ""
     },
     {
       "name": "Angular",
       "percent": "30",
-      "type": "4"
+      "type": "4",
+      "class": "",
+      "desc": ""
     },
     {
       "name": "GO",
       "percent": "15",
-      "type": "3"
+      "type": "3",
+      "class": "",
+      "desc": ""
     },
     {
       "name": "Python",
       "percent": "60",
-      "type": "1"
+      "type": "1",
+      "class": "",
+      "desc": "He creado algunos Bots de automatización de actividades, para optimizar mi tiempo y productividad"
     },
     {
       "name": "MySQL",
       "percent": "50",
-      "type": "2"
+      "type": "2",
+      "class": "",
+      "desc": ""
     },
     {
       "name": "WordPress",
       "percent": "68",
-      "type": "1"
+      "type": "1",
+      "class": "",
+      "desc": "He creado mis propios plugins y temas para uso personal y laboral"
+    },
+    {
+      "name": "AutoHotKey",
+      "percent": "45",
+      "type": "2",
+      "class": "",
+      "desc": "He creado algunos Scripts de automatización y de utilidad para uso propio"
+    },
+    {
+      "name": "JSON",
+      "percent": "100",
+      "type": "1",
+      "class": "",
+      "desc": ""
     }
   ],
   "software": [
     {
       "name": "SEO",
       "percent": "75",
-      "type": "1"
+      "type": "1",
+      "class": "",
+      "desc": "No soy experto, pero investigo mucho al respecto"
     },
     {
       "name": "Photoshop",
       "percent": "50",
-      "type": "2"
+      "type": "2",
+      "class": "",
+      "desc": ""
     },
     {
       "name": "FL Studio",
       "percent": "25",
-      "type": "3"
+      "type": "3",
+      "class": "",
+      "desc": "Lo uso para modificar y mezclar las canciones que más me gustan"
     },
     {
       "name": "Userscripts",
       "percent": "95",
-      "type": "1"
+      "type": "1",
+      "class": "",
+      "desc": "Hago uso frecuente de este Addon para modificar las páginas web que utilizo frecuentemente, ya sea para funcionalidad o para personalizar el estilo"
     },
     {
       "name": "Premier",
       "percent": "20",
-      "type": "3"
+      "type": "3",
+      "class": "",
+      "desc": ""
     },
     {
       "name": "After Effects",
       "percent": "20",
-      "type": "3"
+      "type": "3",
+      "class": "",
+      "desc": ""
     },
     {
       "name": "VisualCode Studio",
       "percent": "80",
-      "type": "1"
+      "type": "1",
+      "class": "",
+      "desc": "He creado mis propias modificaciones para el programa"
     },
     {
       "name": "GitHub",
       "percent": "75",
-      "type": "1"
+      "type": "1",
+      "class": "",
+      "desc": ""
     },
     {
       "name": "FileZilla",
       "percent": "50",
-      "type": "2"
+      "type": "2",
+      "class": "",
+      "desc": ""
     },
     {
       "name": "GitHub",
       "percent": "75",
-      "type": "1"
+      "type": "1",
+      "class": "",
+      "desc": "Hago uso frecuente de esta plataforma"
     }
   ],
   "idiomas": [
     {
       "name": "Inglés",
       "percent": "40",
-      "type": "1"
+      "type": "1",
+      "class": "",
+      "desc": "Entiendo fácilmente el idioma en el mundo de la informática, pero no soy bueno hablándolo"
     },
     {
       "name": "Lenguaje de Señas Chilena",
       "percent": "15",
-      "type": "2"
+      "type": "2",
+      "class": "",
+      "desc": "Estoy aprendiendo de manera autodidacta, por lo que puedo ser erróneo en algunas expresiones"
     }
   ]
 }
