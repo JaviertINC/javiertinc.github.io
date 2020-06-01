@@ -1,0 +1,128 @@
+{
+  "lenguajes": [
+    {
+      "name": "HTML5",
+      "percent": "90",
+      "type": "1"
+    },
+    {
+      "name": "CSS3",
+      "percent": "95",
+      "type": "1"
+    },
+    {
+      "name": "Javascript",
+      "percent": "85",
+      "type": "1"
+    },
+    {
+      "name": "PHP",
+      "percent": "75",
+      "type": "1"
+    },
+    {
+      "name": "JQuery",
+      "percent": "65",
+      "type": "1"
+    },
+    {
+      "name": "Bootstrap",
+      "percent": "88",
+      "type": "1"
+    },
+    {
+      "name": "React",
+      "percent": "35",
+      "type": "2"
+    },
+    {
+      "name": "Angular",
+      "percent": "30",
+      "type": "4"
+    },
+    {
+      "name": "GO",
+      "percent": "15",
+      "type": "3"
+    },
+    {
+      "name": "Python",
+      "percent": "60",
+      "type": "1"
+    },
+    {
+      "name": "MySQL",
+      "percent": "50",
+      "type": "2"
+    },
+    {
+      "name": "WordPress",
+      "percent": "68",
+      "type": "1"
+    }
+  ],
+  "software": [
+    {
+      "name": "SEO",
+      "percent": "75",
+      "type": "1"
+    },
+    {
+      "name": "Photoshop",
+      "percent": "50",
+      "type": "2"
+    },
+    {
+      "name": "FL Studio",
+      "percent": "25",
+      "type": "3"
+    },
+    {
+      "name": "Userscripts",
+      "percent": "95",
+      "type": "1"
+    },
+    {
+      "name": "Premier",
+      "percent": "20",
+      "type": "3"
+    },
+    {
+      "name": "After Effects",
+      "percent": "20",
+      "type": "3"
+    },
+    {
+      "name": "VisualCode Studio",
+      "percent": "80",
+      "type": "1"
+    },
+    {
+      "name": "GitHub",
+      "percent": "75",
+      "type": "1"
+    },
+    {
+      "name": "FileZilla",
+      "percent": "50",
+      "type": "2"
+    },
+    {
+      "name": "GitHub",
+      "percent": "75",
+      "type": "1"
+    }
+  ],
+  "idiomas": [
+    {
+      "name": "Inglés",
+      "percent": "40",
+      "type": "1"
+    },
+    {
+      "name": "Lenguaje de Señas Chilena",
+      "percent": "15",
+      "type": "2"
+    }
+  ]
+}
