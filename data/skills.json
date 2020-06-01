@@ -57,6 +57,13 @@
       "desc": ""
     },
     {
+      "name": "Python",
+      "percent": "60",
+      "type": "1",
+      "class": "",
+      "desc": "He creado algunos Bots de automatización de actividades, para optimizar mi tiempo y productividad"
+    },
+    {
       "name": "GO",
       "percent": "15",
       "type": "3",
@@ -64,11 +71,25 @@
       "desc": ""
     },
     {
-      "name": "Python",
-      "percent": "60",
-      "type": "1",
+      "name": "JAVA",
+      "percent": "35",
+      "type": "3",
       "class": "",
-      "desc": "He creado algunos Bots de automatización de actividades, para optimizar mi tiempo y productividad"
+      "desc": ""
+    },
+    {
+      "name": "Android",
+      "percent": "33",
+      "type": "3",
+      "class": "",
+      "desc": ""
+    },
+    {
+      "name": "Dart",
+      "percent": "35",
+      "type": "2",
+      "class": "",
+      "desc": ""
     },
     {
       "name": "MySQL",
@@ -99,13 +120,36 @@
       "desc": ""
     }
   ],
-  "software": [
+  "lenguaje": [
     {
       "name": "SEO",
       "percent": "75",
       "type": "1",
       "class": "",
       "desc": "No soy experto, pero investigo mucho al respecto"
+    }
+  ],
+  "software": [
+    {
+      "name": "VisualCode Studio",
+      "percent": "80",
+      "type": "1",
+      "class": "",
+      "desc": "He creado mis propias modificaciones para el programa"
+    },
+    {
+      "name": "GitHub",
+      "percent": "75",
+      "type": "1",
+      "class": "",
+      "desc": "Hago uso frecuente de esta plataforma"
+    },
+    {
+      "name": "Flutter",
+      "percent": "35",
+      "type": "2",
+      "class": "",
+      "desc": ""
     },
     {
       "name": "Photoshop",
@@ -143,20 +187,6 @@
       "desc": ""
     },
     {
-      "name": "VisualCode Studio",
-      "percent": "80",
-      "type": "1",
-      "class": "",
-      "desc": "He creado mis propias modificaciones para el programa"
-    },
-    {
-      "name": "GitHub",
-      "percent": "75",
-      "type": "1",
-      "class": "",
-      "desc": ""
-    },
-    {
       "name": "FileZilla",
       "percent": "50",
       "type": "2",
@@ -164,11 +194,11 @@
       "desc": ""
     },
     {
-      "name": "GitHub",
-      "percent": "75",
-      "type": "1",
+      "name": "NetBeans",
+      "percent": "38",
+      "type": "3",
       "class": "",
-      "desc": "Hago uso frecuente de esta plataforma"
+      "desc": ""
     }
   ],
   "idiomas": [
