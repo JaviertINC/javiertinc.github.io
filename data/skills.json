@@ -16,7 +16,7 @@
     },
     {
       "name": "Javascript",
-      "percent": "85",
+      "percent": "88",
       "type": "1",
       "class": "",
       "desc": "Me gusta mucho este lenguaje por su gran robustez"
@@ -30,7 +30,7 @@
     },
     {
       "name": "JQuery",
-      "percent": "65",
+      "percent": "75",
       "type": "1",
       "class": "",
       "desc": "Aún que me falta mucho por aprender, puedo lograr grandes funcionalidades con esta librería"
@@ -109,6 +109,13 @@
       "name": "C++",
       "percent": "30",
       "type": "3",
+      "class": "",
+      "desc": ""
+    },
+    {
+      "name": "CakePHP",
+      "percent": "40",
+      "type": "2",
       "class": "",
       "desc": ""
     },
@@ -268,6 +275,13 @@
         "name": "After Effects",
         "percent": "20",
         "type": "3",
+        "class": "",
+        "desc": ""
+      },
+      {
+        "name": "Camtasia Studio",
+        "percent": "85",
+        "type": "1",
         "class": "",
         "desc": ""
       }
