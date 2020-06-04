@@ -139,6 +139,13 @@
       "type": "1",
       "class": "",
       "desc": "No soy experto, pero investigo mucho al respecto"
+    },
+    {
+      "name": "Cookies",
+      "percent": "45",
+      "type": "2",
+      "class": "",
+      "desc": ""
     }
   ],
   "software": {
