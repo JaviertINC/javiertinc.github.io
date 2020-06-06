@@ -58,10 +58,17 @@
     },
     {
       "name": "Python",
-      "percent": "60",
+      "percent": "74",
       "type": "1",
       "class": "",
       "desc": "He creado algunos Bots de automatización de actividades, para optimizar mi tiempo y productividad"
+    },
+    {
+      "name": "CakePHP",
+      "percent": "55",
+      "type": "2",
+      "class": "",
+      "desc": ""
     },
     {
       "name": "GO",
@@ -109,13 +116,6 @@
       "name": "C++",
       "percent": "30",
       "type": "3",
-      "class": "",
-      "desc": ""
-    },
-    {
-      "name": "CakePHP",
-      "percent": "40",
-      "type": "2",
       "class": "",
       "desc": ""
     },
@@ -251,6 +251,13 @@
       {
         "name": "TimeDoctor Client",
         "percent": "80",
+        "type": "2",
+        "class": "",
+        "desc": ""
+      },
+      {
+        "name": "CloudFlare",
+        "percent": "45",
         "type": "2",
         "class": "",
         "desc": ""
