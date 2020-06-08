@@ -1,0 +1,53 @@
+{
+  "repo": [
+    {
+      "name": "Userscripts",
+      "desc": "Userscripts para modificación de estilos y funcionalidades de sitios webs, utilizando Tampermonkey, Greasemonkey, Violentmonkey - Javascript",
+      "url": "https://github.com/JaviertINC/userscripts",
+      "lang": "Javascript",
+      "status": 1
+    },
+    {
+      "name": "Cajero Automático",
+      "desc": "Cajero Automático en C y C++ (Funcionamiento basado en Bancos Chilenos)",
+      "url": "https://github.com/JaviertINC/CajeroAutomatico",
+      "lang": "C++",
+      "status": 1
+    },
+    {
+      "name": "AlwaysOnTop",
+      "desc": "Un simple script en AutoHotKey para mantener ventanas encima de todo",
+      "url": "https://github.com/JaviertINC/AlwaysOnTop",
+      "lang": "AutoHotkey",
+      "status": 1
+    },
+    {
+      "name": "WindowTransparency",
+      "desc": "Simple Script en AutoHotKey para modificar la opacidad de la ventana actual",
+      "url": "https://github.com/JaviertINC/WindowTransparency",
+      "lang": "AutoHotkey",
+      "status": 1
+    },
+    {
+      "name": "Popupper",
+      "desc": "Una simple funcion en JavaScript para abrir ventanas PopUp en el navegador",
+      "url": "https://github.com/JaviertINC/Popupper",
+      "lang": "Javascript",
+      "status": 1
+    },
+    {
+      "name": "FastFirefoxChanger",
+      "desc": "Un simple script en BATCH, para cambiar/abrir perfiles de Firefox muy rápido",
+      "url": "https://github.com/JaviertINC/FastFirefoxChanger",
+      "lang": "Batch",
+      "status": 1
+    },
+    {
+      "name": "JTB",
+      "desc": "He creado esta pequeña libreria de Clases en CSS, porque no estan en bootstrap, y son bastante utiles",
+      "url": "https://github.com/JaviertINC/JTB",
+      "lang": "CSS",
+      "status": 1
+    }
+  ]
+}
