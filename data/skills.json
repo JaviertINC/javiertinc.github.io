@@ -41,7 +41,6 @@
         "js",
         "javascript",
         "scripts",
-        "userscript",
         "userscripts",
         "ajax"
       ],
@@ -57,7 +56,8 @@
         "web",
         "server",
         "database",
-        "api"
+        "api",
+        "php"
       ],
       "desc": "He aprendido a optimizar aplicaciones Web utilizando este lenguaje y en Wordpress"
     },
@@ -106,7 +106,7 @@
         "javascript",
         "react",
         "reactjs",
-        "framework",
+        "react native",
         "frameworks"
       ]
     },
@@ -124,7 +124,6 @@
         "angularjs",
         "angular7",
         "ng",
-        "framework",
         "frameworks"
       ],
       "desc": ""
@@ -329,7 +328,7 @@
       "search": [
         "frontend",
         "web",
-        "javascritp",
+        "javascript",
         "js",
         "php",
         "userscripts"
