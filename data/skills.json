@@ -1,3 +1,158 @@
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: O is undefined)
+Unable to generate (TypeError: can't assign to property "search" on "": not an object)
 {
   "lenguajes": [
     {
@@ -331,7 +486,8 @@
         "javascript",
         "js",
         "php",
-        "userscripts"
+        "userscripts",
+        "cookies"
       ],
       "desc": ""
     },
@@ -347,7 +503,8 @@
         "js",
         "jquery",
         "userscripts",
-        "ajax"
+        "ajax",
+        "xmlhttprequest"
       ],
       "desc": ""
     }
@@ -359,6 +516,15 @@
         "percent": "80",
         "type": "1",
         "class": "",
+        "search": [
+          "vscode",
+          "code",
+          "visual studio code",
+          "visual",
+          "studio",
+          "editor",
+          "ide"
+        ],
         "desc": "He creado mis propias modificaciones para el programa"
       },
       {
@@ -366,6 +532,13 @@
         "percent": "75",
         "type": "1",
         "class": "",
+        "search": [
+          "gh",
+          "github",
+          "git",
+          "versiones",
+          "control de versiones"
+        ],
         "desc": "Hago uso frecuente de esta plataforma"
       },
       {
@@ -373,6 +546,20 @@
         "percent": "68",
         "type": "1",
         "class": "",
+        "search": [
+          "cms",
+          "wordpress",
+          "web",
+          "php",
+          "html",
+          "css",
+          "plugins",
+          "temas",
+          "frameworks",
+          "web",
+          "frontend",
+          "backend"
+        ],
         "desc": "He creado mis propios plugins y temas para uso personal y laboral"
       },
       {
@@ -380,6 +567,14 @@
         "percent": "35",
         "type": "2",
         "class": "",
+        "search": [
+          "flutter",
+          "android",
+          "iphone",
+          "ios",
+          "aplicaciones",
+          "dart"
+        ],
         "desc": ""
       },
       {
@@ -387,6 +582,17 @@
         "percent": "95",
         "type": "1",
         "class": "",
+        "search": [
+          "userscripts",
+          "frontend",
+          "javascript",
+          "js",
+          "jquery",
+          "tampermonkey",
+          "greasemonkey",
+          "violentmonkey",
+          "darkgreen"
+        ],
         "desc": "Hago uso frecuente de este Addon para modificar las páginas web que utilizo frecuentemente, ya sea para funcionalidad o para personalizar el estilo"
       },
       {
@@ -394,13 +600,19 @@
         "percent": "50",
         "type": "2",
         "class": "",
+        "search": [
+          "filezilla",
+          "ftp",
+          "server",
+          "archivos"
+        ],
         "desc": ""
       },
       {
         "name": "NetBeans",
         "percent": "38",
         "type": "3",
-        "class": "",
+        "class": "ide, desarrollo, programa, java, code, editor",
         "desc": ""
       },
       {
@@ -408,6 +620,14 @@
         "percent": "70",
         "type": "1",
         "class": "",
+        "search": [
+          "ide",
+          "desarrollo",
+          "programa",
+          "text",
+          "code",
+          "editor"
+        ],
         "desc": ""
       },
       {
@@ -415,6 +635,14 @@
         "percent": "80",
         "type": "1",
         "class": "",
+        "search": [
+          "cpanel",
+          "panel de control",
+          "web",
+          "frontend",
+          "backend",
+          "whm"
+        ],
         "desc": ""
       },
       {
@@ -422,6 +650,14 @@
         "percent": "80",
         "type": "1",
         "class": "",
+        "search": [
+          "cpanel",
+          "panel de control",
+          "web",
+          "frontend",
+          "backend",
+          "whm"
+        ],
         "desc": ""
       },
       {
@@ -429,6 +665,18 @@
         "percent": "80",
         "type": "3",
         "class": "",
+        "search": [
+          "google",
+          "captcha",
+          "recaptcha",
+          "jtcaptcha",
+          "js",
+          "javascript",
+          "php",
+          "react",
+          "reactjs",
+          "hcaptcha"
+        ],
         "desc": ""
       },
       {
@@ -436,6 +684,18 @@
         "percent": "85",
         "type": "1",
         "class": "",
+        "search": [
+          "google",
+          "captcha",
+          "recaptcha",
+          "jtcaptcha",
+          "js",
+          "javascript",
+          "php",
+          "react",
+          "reactjs",
+          "hcaptcha"
+        ],
         "desc": "Está integrada en esta web y en varios de mis proyectos"
       },
       {
@@ -443,6 +703,12 @@
         "percent": "70",
         "type": "1",
         "class": "",
+        "search": [
+          "trello",
+          "time",
+          "tareas",
+          "scrum agile"
+        ],
         "desc": "Hago uso frecuente de esta plataforma para administrar de forma optima mis actividades y las de mis proyectos"
       },
       {
@@ -450,6 +716,14 @@
         "percent": "20",
         "type": "3",
         "class": "",
+        "search": [
+          "gh",
+          "github",
+          "git",
+          "versiones",
+          "control de versiones",
+          "gitlab"
+        ],
         "desc": ""
       },
       {
@@ -457,6 +731,13 @@
         "percent": "80",
         "type": "2",
         "class": "",
+        "search": [
+          "trello",
+          "time",
+          "tareas",
+          "timedoctor",
+          "time doctor"
+        ],
         "desc": ""
       },
       {
@@ -464,6 +745,13 @@
         "percent": "45",
         "type": "2",
         "class": "",
+        "search": [
+          "cloudflare",
+          "web",
+          "frontend",
+          "backend",
+          "cdn"
+        ],
         "desc": ""
       }
     ],
@@ -473,6 +761,15 @@
         "percent": "75",
         "type": "1",
         "class": "",
+        "search": [
+          "photoshop",
+          "ps",
+          "editor",
+          "imagenes",
+          "fotos",
+          "fotografia",
+          "edicion"
+        ],
         "desc": ""
       },
       {
@@ -480,6 +777,14 @@
         "percent": "25",
         "type": "3",
         "class": "",
+        "search": [
+          "edicion",
+          "fl studio",
+          "fruit loops",
+          "musica",
+          "produccion",
+          "musical"
+        ],
         "desc": "Modifico y mezclo canciones que me gustan"
       },
       {
@@ -487,6 +792,14 @@
         "percent": "15",
         "type": "3",
         "class": "",
+        "search": [
+          "edicion",
+          "audiovisual",
+          "premier",
+          "adobe suite",
+          "after effects",
+          "videos"
+        ],
         "desc": ""
       },
       {
@@ -494,6 +807,14 @@
         "percent": "20",
         "type": "3",
         "class": "",
+        "search": [
+          "edicion",
+          "audiovisual",
+          "premier",
+          "adobe suite",
+          "after effects",
+          "videos"
+        ],
         "desc": ""
       },
       {
@@ -501,6 +822,12 @@
         "percent": "85",
         "type": "1",
         "class": "",
+        "search": [
+          "edicion",
+          "audiovisual",
+          "camtasia studio",
+          "videos"
+        ],
         "desc": ""
       }
     ],
@@ -510,6 +837,13 @@
         "percent": "85",
         "type": "1",
         "class": "",
+        "search": [
+          "microsoft",
+          "ms",
+          "office",
+          "ofice",
+          "powerpoint"
+        ],
         "desc": "Con ayuda de Photoshop, he creado presentaciones muy amigables y claras"
       },
       {
@@ -517,6 +851,13 @@
         "percent": "50",
         "type": "2",
         "class": "",
+        "search": [
+          "microsoft",
+          "ms",
+          "office",
+          "ofice",
+          "word"
+        ],
         "desc": ""
       },
       {
@@ -524,6 +865,13 @@
         "percent": "65",
         "type": "2",
         "class": "",
+        "search": [
+          "microsoft",
+          "ms",
+          "office",
+          "ofice",
+          "excel"
+        ],
         "desc": ""
       },
       {
@@ -531,6 +879,13 @@
         "percent": "50",
         "type": "2",
         "class": "",
+        "search": [
+          "libre office",
+          "office",
+          "ofice",
+          "word",
+          "open source"
+        ],
         "desc": ""
       }
     ]
