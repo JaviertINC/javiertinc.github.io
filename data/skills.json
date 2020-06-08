@@ -436,7 +436,8 @@
           "tampermonkey",
           "greasemonkey",
           "violentmonkey",
-          "darkgreen"
+          "darkgreen",
+          "css"
         ],
         "desc": "Hago uso frecuente de este Addon para modificar las páginas web que utilizo frecuentemente, ya sea para funcionalidad o para personalizar el estilo"
       },
@@ -602,6 +603,36 @@
           "frontend",
           "backend",
           "cdn"
+        ],
+        "desc": ""
+      },
+      {
+        "name": "Tampermonkey",
+        "percent": "75",
+        "type": "1",
+        "class": "",
+        "search": [
+          "userscripts",
+          "tampermonkey",
+          "greasemonkey",
+          "js",
+          "javascript",
+          "css"
+        ],
+        "desc": ""
+      },
+      {
+        "name": "Greasemonkey",
+        "percent": "75",
+        "type": "1",
+        "class": "",
+        "search": [
+          "userscripts",
+          "tampermonkey",
+          "greasemonkey",
+          "js",
+          "javascript",
+          "css"
         ],
         "desc": ""
       }
