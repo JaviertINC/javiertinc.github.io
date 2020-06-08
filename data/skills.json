@@ -5,6 +5,13 @@
       "percent": "90",
       "type": "1",
       "class": "",
+      "search": [
+        "frontend",
+        "web",
+        "html",
+        "html5",
+        "html 5"
+      ],
       "desc": ""
     },
     {
@@ -12,6 +19,14 @@
       "percent": "95",
       "type": "1",
       "class": "",
+      "search": [
+        "frontend",
+        "web",
+        "css",
+        "css3",
+        "estilos",
+        "hoja de estilos"
+      ],
       "desc": "Llevo más de 7 años desarrollando con esta tecnología, a pesar de que me faltan algunas cosas por aprender, siento que puedo hacer y deshacer cualquier diseño con este lenguaje"
     },
     {
@@ -19,6 +34,17 @@
       "percent": "88",
       "type": "1",
       "class": "",
+      "search": [
+        "frontend",
+        "backend",
+        "web",
+        "js",
+        "javascript",
+        "scripts",
+        "userscript",
+        "userscripts",
+        "ajax"
+      ],
       "desc": "Me gusta mucho este lenguaje por su gran robustez"
     },
     {
@@ -26,6 +52,13 @@
       "percent": "75",
       "type": "1",
       "class": "",
+      "search": [
+        "backend",
+        "web",
+        "server",
+        "database",
+        "api"
+      ],
       "desc": "He aprendido a optimizar aplicaciones Web utilizando este lenguaje y en Wordpress"
     },
     {
@@ -33,6 +66,15 @@
       "percent": "75",
       "type": "1",
       "class": "",
+      "search": [
+        "frontend",
+        "web",
+        "javascript",
+        "js",
+        "jquery",
+        "ajax",
+        "frameworks"
+      ],
       "desc": "Aún que me falta mucho por aprender, puedo lograr grandes funcionalidades con esta librería"
     },
     {
@@ -40,6 +82,15 @@
       "percent": "88",
       "type": "1",
       "class": "",
+      "search": [
+        "frontend",
+        "web",
+        "css",
+        "css3",
+        "bootstrap",
+        "estilos",
+        "frameworks"
+      ],
       "desc": "He trabajado tanto con esta librería que me manejo muy bien con ella"
     },
     {
@@ -47,13 +98,35 @@
       "percent": "35",
       "type": "2",
       "class": "",
-      "desc": ""
+      "desc": "",
+      "search": [
+        "frontend",
+        "web",
+        "js",
+        "javascript",
+        "react",
+        "reactjs",
+        "framework",
+        "frameworks"
+      ]
     },
     {
       "name": "Angular",
       "percent": "30",
       "type": "4",
       "class": "",
+      "search": [
+        "frontend",
+        "web",
+        "js",
+        "javascript",
+        "angular",
+        "angularjs",
+        "angular7",
+        "ng",
+        "framework",
+        "frameworks"
+      ],
       "desc": ""
     },
     {
@@ -61,6 +134,15 @@
       "percent": "74",
       "type": "1",
       "class": "",
+      "search": [
+        "software",
+        "py",
+        "python",
+        "machine learning",
+        "bots",
+        "pip",
+        "api"
+      ],
       "desc": "He creado algunos Bots de automatización de actividades, para optimizar mi tiempo y productividad"
     },
     {
@@ -68,6 +150,15 @@
       "percent": "55",
       "type": "2",
       "class": "",
+      "search": [
+        "backend",
+        "web",
+        "php",
+        "framework",
+        "frameworks",
+        "cakephp",
+        "server"
+      ],
       "desc": ""
     },
     {
@@ -75,6 +166,13 @@
       "percent": "15",
       "type": "3",
       "class": "",
+      "search": [
+        "backend",
+        "web",
+        "go",
+        "server",
+        "api"
+      ],
       "desc": ""
     },
     {
@@ -82,6 +180,15 @@
       "percent": "35",
       "type": "3",
       "class": "",
+      "search": [
+        "backend",
+        "app",
+        "aplication",
+        "android",
+        "java",
+        "spring",
+        "api"
+      ],
       "desc": ""
     },
     {
@@ -89,6 +196,17 @@
       "percent": "33",
       "type": "3",
       "class": "",
+      "search": [
+        "backend",
+        "frontend",
+        "android",
+        "java",
+        "dart",
+        "flutter",
+        "app",
+        "aplicacion",
+        "api"
+      ],
       "desc": ""
     },
     {
@@ -96,6 +214,16 @@
       "percent": "35",
       "type": "2",
       "class": "",
+      "search": [
+        "backend",
+        "frontend",
+        "android",
+        "dart",
+        "flutter",
+        "app",
+        "aplicacion",
+        "api"
+      ],
       "desc": ""
     },
     {
@@ -103,6 +231,13 @@
       "percent": "50",
       "type": "2",
       "class": "",
+      "search": [
+        "backend",
+        "database",
+        "php",
+        "sql",
+        "mysql"
+      ],
       "desc": ""
     },
     {
@@ -110,6 +245,12 @@
       "percent": "30",
       "type": "3",
       "class": "",
+      "search": [
+        "applicacion",
+        "app",
+        "c",
+        "c++"
+      ],
       "desc": ""
     },
     {
@@ -117,6 +258,12 @@
       "percent": "30",
       "type": "3",
       "class": "",
+      "search": [
+        "applicacion",
+        "app",
+        "c",
+        "c++"
+      ],
       "desc": ""
     },
     {
@@ -124,6 +271,16 @@
       "percent": "45",
       "type": "2",
       "class": "",
+      "search": [
+        "applicacion",
+        "app",
+        "autohotkey",
+        "ahk",
+        "script",
+        "automatizacion",
+        "automatico",
+        "bots"
+      ],
       "desc": "He creado algunos Scripts de automatización y de utilidad para uso propio"
     },
     {
@@ -131,6 +288,18 @@
       "percent": "100",
       "type": "1",
       "class": "",
+      "search": [
+        "api",
+        "javascript",
+        "java",
+        "php",
+        "json",
+        "jquery",
+        "js",
+        "python",
+        "c++",
+        "go"
+      ],
       "desc": ""
     },
     {
@@ -138,6 +307,18 @@
       "percent": "75",
       "type": "1",
       "class": "",
+      "search": [
+        "frontend",
+        "web",
+        "html",
+        "meta",
+        "tags",
+        "seo",
+        "search",
+        "buscador",
+        "engine",
+        "optimizacion"
+      ],
       "desc": "No soy experto, pero investigo mucho al respecto"
     },
     {
@@ -145,6 +326,30 @@
       "percent": "45",
       "type": "2",
       "class": "",
+      "search": [
+        "frontend",
+        "web",
+        "javascritp",
+        "js",
+        "php",
+        "userscripts"
+      ],
+      "desc": ""
+    },
+    {
+      "name": "Ajax",
+      "percent": "56",
+      "type": "2",
+      "class": "",
+      "search": [
+        "frontend",
+        "web",
+        "javascritp",
+        "js",
+        "jquery",
+        "userscripts",
+        "ajax"
+      ],
       "desc": ""
     }
   ],
@@ -340,11 +545,11 @@
       "desc": "Entiendo fácilmente el idioma en el mundo de la informática, pero no soy bueno hablándolo"
     },
     {
-      "name": "Lenguaje de Señas Chilena",
-      "percent": "15",
+      "name": "Lengua de Señas Chilena",
+      "percent": "18",
       "type": "2",
       "class": "",
-      "desc": "Estoy aprendiendo de manera autodidacta, por lo que puedo ser erróneo en algunas expresiones"
+      "desc": "Comencé aprendiendo de forma autodidacta, pero no satisfecho con esto, decidí unirme a un grupo de personas que hacen uso diario de esta habilidad y juntos estamos mejorando"
     }
   ]
 }
