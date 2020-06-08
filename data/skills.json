@@ -457,7 +457,14 @@
         "name": "NetBeans",
         "percent": "38",
         "type": "3",
-        "class": "ide, desarrollo, programa, java, code, editor",
+        "class": "",
+        "search": [
+          "ide",
+          "desarrollo",
+          "java",
+          "code",
+          "editor"
+        ],
         "desc": ""
       },
       {
@@ -468,7 +475,6 @@
         "search": [
           "ide",
           "desarrollo",
-          "programa",
           "text",
           "code",
           "editor"
