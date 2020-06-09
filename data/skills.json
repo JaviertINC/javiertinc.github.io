@@ -302,6 +302,22 @@
       "desc": ""
     },
     {
+      "name": "NodeJS",
+      "percent": "50",
+      "type": "2",
+      "class": "",
+      "search": [
+        "backend",
+        "frontend",
+        "web",
+        "javascript",
+        "nodejs",
+        "yarn",
+        "npm"
+      ],
+      "desc": ""
+    },
+    {
       "name": "SEO",
       "percent": "75",
       "type": "1",
@@ -402,6 +418,25 @@
           "temas",
           "frameworks",
           "web",
+          "frontend",
+          "backend"
+        ],
+        "desc": ""
+      },
+      {
+        "name": "Blogger",
+        "percent": "68",
+        "type": "1",
+        "class": "",
+        "search": [
+          "cms",
+          "google",
+          "web",
+          "xhtml",
+          "css",
+          "xml",
+          "blogger",
+          "frameworks",
           "frontend",
           "backend"
         ],
@@ -533,7 +568,7 @@
       },
       {
         "name": "hCaptcha",
-        "percent": "85",
+        "percent": "75",
         "type": "1",
         "class": "",
         "search": [
@@ -548,7 +583,7 @@
           "reactjs",
           "hcaptcha"
         ],
-        "desc": "Está integrada en esta web y en varios de mis proyectos"
+        "desc": ""
       },
       {
         "name": "Trello",
@@ -607,6 +642,21 @@
         "desc": ""
       },
       {
+        "name": "FontAwesome",
+        "percent": "88",
+        "type": "1",
+        "class": "",
+        "search": [
+          "fontawesome",
+          "cdn",
+          "icons",
+          "css",
+          "javascript",
+          "js"
+        ],
+        "desc": ""
+      },
+      {
         "name": "Tampermonkey",
         "percent": "75",
         "type": "1",
@@ -633,6 +683,31 @@
           "js",
           "javascript",
           "css"
+        ],
+        "desc": ""
+      },
+      {
+        "name": "Adfly",
+        "percent": "78",
+        "type": "1",
+        "class": "",
+        "search": [
+          "adfly",
+          "ads",
+          "adsense",
+          "publicidad"
+        ],
+        "desc": ""
+      },
+      {
+        "name": "Google Ads",
+        "percent": "40",
+        "type": "2",
+        "class": "",
+        "search": [
+          "google ads",
+          "adsense",
+          "publicidad"
         ],
         "desc": ""
       }
