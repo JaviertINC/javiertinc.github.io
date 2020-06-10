@@ -1,1 +1,44 @@
-ewogICJjZXJ0IjogWwogICAgewogICAgICAibmFtZSI6ICJHaXQgeSBHaXRodWIiLAogICAgICAiaW1nIjogInVjdnp1UGouanBnIiwKICAgICAgImVtaXNvciI6ICJQbGF0emkiLAogICAgICAiZW1pc29yX3VybCI6ICJodHRwczovL3BsYXR6aS5jb20vci9KYXZpZXJ0SU5DLyIsCiAgICAgICJkYXRlIjogIjIwMjAtMDYtMTBUMDA6MDA6MDAuMDAwWiIsCiAgICAgICJkbCI6ICIiCiAgICB9LAogICAgewogICAgICAibmFtZSI6ICJJbnRyb2R1Y2Npw7NuIGEgUEhQIiwKICAgICAgImltZyI6ICI4TWZJajBILmpwZyIsCiAgICAgICJlbWlzb3IiOiAiUGxhdHppIiwKICAgICAgImVtaXNvcl91cmwiOiAiaHR0cHM6Ly9wbGF0emkuY29tL3IvSmF2aWVydElOQy8iLAogICAgICAiZGF0ZSI6ICIyMDIwLTA2LTEwVDAwOjAwOjAwLjAwMFoiLAogICAgICAiZGwiOiAiIgogICAgfSwKICAgIHsKICAgICAgIm5hbWUiOiAiSW50cm9kdWNjacOzbiBhbCBEZXNhcnJvbGxvIFdlYjogSFRNTCB5IENTUyBJSSIsCiAgICAgICJpbWciOiAiSkVpQmVUYi5qcGciLAogICAgICAiZW1pc29yIjogIkdvb2dsZSBBY3TDrXZhdGUiLAogICAgICAiZW1pc29yX3VybCI6ICJodHRwczovL2xlYXJuZGlnaXRhbC53aXRoZ29vZ2xlLmNvbS9hY3RpdmF0ZSIsCiAgICAgICJkYXRlIjogIjIwMjAtMDYtMDhUMDA6MDA6MDAuMDAwWiIsCiAgICAgICJkbCI6ICJhSFIwY0hNNkx5OWtjbWwyWlM1bmIyOW5iR1V1WTI5dEwzVmpQMlY0Y0c5eWREMWtiM2R1Ykc5aFpDWnBaRDB4YlVWcFUwNXRhbUZzVVZwWGRURkhSRkF3TWxrek5VTk9PV3BOWmxodmExYz0iCiAgICB9LAogICAgewogICAgICAibmFtZSI6ICJJbnRyb2R1Y2Npw7NuIGFsIERlc2Fycm9sbG8gV2ViOiBIVE1MIHkgQ1NTIEkiLAogICAgICAiaW1nIjogIjZFRkU5T00uanBnIiwKICAgICAgImVtaXNvciI6ICJHb29nbGUgQWN0w612YXRlIiwKICAgICAgImVtaXNvcl91cmwiOiAiaHR0cHM6Ly9sZWFybmRpZ2l0YWwud2l0aGdvb2dsZS5jb20vYWN0aXZhdGUiLAogICAgICAiZGF0ZSI6ICIyMDIwLTA2LTA4VDAwOjAwOjAwLjAwMFoiLAogICAgICAiZGwiOiAiYUhSMGNITTZMeTlrY21sMlpTNW5iMjluYkdVdVkyOXRMM1ZqUDJWNGNHOXlkRDFrYjNkdWJHOWhaQ1pwWkQweFNWVnhTVGh0Y2pad1ZqVnRUME14WkdObVp6azFUbWgzV1ZScWJEaHRXbWs9IgogICAgfSwKICAgIHsKICAgICAgIm5hbWUiOiAiTWFyY2EgUGVyc29uYWwiLAogICAgICAiaW1nIjogIk9rNG44aEsuanBnIiwKICAgICAgImVtaXNvciI6ICJQbGF0emkiLAogICAgICAiZW1pc29yX3VybCI6ICJodHRwczovL3BsYXR6aS5jb20vci9KYXZpZXJ0SU5DLyIsCiAgICAgICJkYXRlIjogIjIwMTktMDctMDVUMDA6MDA6MDAuMDAwWiIsCiAgICAgICJkbCI6ICJhSFIwY0hNNkx5OWtjbWwyWlM1bmIyOW5iR1V1WTI5dEwzVmpQMlY0Y0c5eWREMWtiM2R1Ykc5aFpDWnBaRDB4VTJWRVlqZHdiM0pOZVcxWVpuUkVlVWRqVVZoclkwZFlURU4wVTFWSmJIYz09IgogICAgfSwKICAgIHsKICAgICAgIm5hbWUiOiAiU2VndXJpZGFkIExhYm9yYWwiLAogICAgICAiaW1nIjogImx6RHVMOWMuanBnIiwKICAgICAgImVtaXNvciI6ICJDRUlNIiwKICAgICAgImVtaXNvcl91cmwiOiAiaHR0cHM6Ly9jZWltLmNsLyIsCiAgICAgICJkYXRlIjogIjIwMTctMTItMDFUMDA6MDA6MDAuMDAwWiIsCiAgICAgICJkbCI6ICJhSFIwY0hNNkx5OWtjbWwyWlM1bmIyOW5iR1V1WTI5dEwzVmpQMlY0Y0c5eWREMWtiM2R1Ykc5aFpDWnBaRDB4ZWw5RGRucFFOMWhqY1ZCd1pYRmZXR3RMTjFkWFNVWjJUMmxaVFRsbVNrRT0iCiAgICB9CiAgXQp9
+{
+  "cert": [
+    {
+      "name": "Introducción a PHP",
+      "img": "XRzrUui.jpg",
+      "emisor": "Platzi",
+      "emisor_url": "https://platzi.com/r/JaviertINC/",
+      "date": "2020-06-10T00:00:00.000Z",
+      "dl": "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL3VjP2V4cG9ydD1kb3dubG9hZCZpZD0xalVqWWlnd0QwSl92YWd4ZlVCMVZ4Y2YyTWJ2MjRveGY"
+    },
+    {
+      "name": "Introducción al Desarrollo Web: HTML y CSS II",
+      "img": "JEiBeTb.jpg",
+      "emisor": "Google Actívate",
+      "emisor_url": "https://learndigital.withgoogle.com/activate",
+      "date": "2020-06-08T00:00:00.000Z",
+      "dl": "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL3VjP2V4cG9ydD1kb3dubG9hZCZpZD0xbUVpU05tamFsUVpXdTFHRFAwMlkzNUNOOWpNZlhva1c="
+    },
+    {
+      "name": "Introducción al Desarrollo Web: HTML y CSS I",
+      "img": "6EFE9OM.jpg",
+      "emisor": "Google Actívate",
+      "emisor_url": "https://learndigital.withgoogle.com/activate",
+      "date": "2020-06-08T00:00:00.000Z",
+      "dl": "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL3VjP2V4cG9ydD1kb3dubG9hZCZpZD0xSVVxSThtcjZwVjVtT0MxZGNmZzk1Tmh3WVRqbDhtWmk="
+    },
+    {
+      "name": "Marca Personal",
+      "img": "Ok4n8hK.jpg",
+      "emisor": "Platzi",
+      "emisor_url": "https://platzi.com/r/JaviertINC/",
+      "date": "2019-07-05T00:00:00.000Z",
+      "dl": "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL3VjP2V4cG9ydD1kb3dubG9hZCZpZD0xU2VEYjdwb3JNeW1YZnREeUdjUVhrY0dYTEN0U1VJbHc=="
+    },
+    {
+      "name": "Seguridad Laboral",
+      "img": "lzDuL9c.jpg",
+      "emisor": "CEIM",
+      "emisor_url": "https://ceim.cl/",
+      "date": "2017-12-01T00:00:00.000Z",
+      "dl": "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL3VjP2V4cG9ydD1kb3dubG9hZCZpZD0xel9DdnpQN1hjcVBwZXFfWGtLN1dXSUZ2T2lZTTlmSkE="
+    }
+  ]
+}
