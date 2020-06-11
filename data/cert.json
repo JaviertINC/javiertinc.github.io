@@ -1,0 +1,67 @@
+{
+  "cert": [
+    {
+      "name": "Videoconferencia con Zoom",
+      "code": "8VZZOnF",
+      "emin": "Platzi",
+      "emiu": "https://platzi.com/r/JaviertINC/",
+      "date": "2020-06-10T00:00:00.000Z",
+      "file": "1oUC-YwwEk0RzdnyrmREjTD78_jffcRqR",
+      "type": "3"
+    },
+    {
+      "name": "Marketing Voz a Voz",
+      "code": "EywhgwM",
+      "emin": "Platzi",
+      "emiu": "https://platzi.com/r/JaviertINC/",
+      "date": "2020-06-10T00:00:00.000Z",
+      "file": "1bf-u71HZyKBRoimec222g-XPG0MUvbFo",
+      "type": "3"
+    },
+    {
+      "name": "Introducción a PHP",
+      "code": "0CWXBWs",
+      "emin": "Platzi",
+      "emiu": "https://platzi.com/r/JaviertINC/",
+      "date": "2020-06-10T00:00:00.000Z",
+      "file": "1jUjYigwD0J_vagxfUB1Vxcf2Mbv24oxf",
+      "type": "3"
+    },
+    {
+      "name": "Introducción al Desarrollo Web: HTML y CSS II",
+      "code": "JEiBeTb",
+      "emin": "Google Actívate",
+      "emiu": "https://learndigital.withgoogle.com/activate",
+      "date": "2020-06-08T00:00:00.000Z",
+      "file": "1mEiSNmjalQZWu1GDP02Y35CN9jMfXokW",
+      "type": "3"
+    },
+    {
+      "name": "Introducción al Desarrollo Web: HTML y CSS I",
+      "code": "6EFE9OM",
+      "emin": "Google Actívate",
+      "emiu": "https://learndigital.withgoogle.com/activate",
+      "date": "2020-06-08T00:00:00.000Z",
+      "file": "1IUqI8mr6pV5mOC1dcfg95NhwYTjl8mZi",
+      "type": "3"
+    },
+    {
+      "name": "Marca Personal",
+      "code": "Ok4n8hK",
+      "emin": "Platzi",
+      "emiu": "https://platzi.com/r/JaviertINC/",
+      "date": "2019-07-05T00:00:00.000Z",
+      "file": "1SeDb7porMymXftDyGcQXkcGXLCtSUIlw",
+      "type": "3"
+    },
+    {
+      "name": "Seguridad Laboral",
+      "code": "lzDuL9c",
+      "emin": "CEIM",
+      "emiu": "https://ceim.cl/",
+      "date": "2017-12-01T00:00:00.000Z",
+      "file": "1z_CvzP7XcqPpeq_XkK7WWIFvOiYM9fJA",
+      "type": "3"
+    }
+  ]
+}
