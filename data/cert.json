@@ -1,6 +1,15 @@
 {
   "cert": [
     {
+      "name": "Prevención de Riesgos Laborales",
+      "code": "pqce5jA",
+      "emin": "Platzi",
+      "emiu": "https://platzi.com/r/JaviertINC/",
+      "date": "2020-06-11T00:00:00.000Z",
+      "file": "1uvC7TUGjZrWW0IsIqKANAuiK4gP4TRco",
+      "type": "3"
+    },
+    {
       "name": "Git y Github",
       "code": "ucvzuPj",
       "emin": "Platzi",
