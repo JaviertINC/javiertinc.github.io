@@ -169,7 +169,7 @@
       "percent": "55",
       "type": "2",
       "class": "",
-      "curso": true,
+      "curso": false,
       "cert": false,
       "search": [
         "backend",
@@ -325,7 +325,7 @@
       "percent": "100",
       "type": "1",
       "class": "",
-      "curso": true,
+      "curso": false,
       "cert": false,
       "search": [
         "api",
