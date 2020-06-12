@@ -1,10 +1,12 @@
 {
   "lenguajes": [
     {
-      "name": "HTML5",
+      "name": "HTML",
       "percent": "90",
       "type": "1",
       "class": "",
+      "curso": true,
+      "cert": true,
       "search": [
         "frontend",
         "web",
@@ -15,17 +17,21 @@
       "desc": ""
     },
     {
-      "name": "CSS3",
+      "name": "CSS",
       "percent": "95",
       "type": "1",
       "class": "",
+      "curso": true,
+      "cert": true,
       "search": [
         "frontend",
         "web",
-        "css",
+        "css2",
         "css3",
         "estilos",
-        "hoja de estilos"
+        "hoja de estilos",
+        "style",
+        "userscripts"
       ],
       "desc": "Llevo más de 7 años desarrollando con esta tecnología, a pesar de que me faltan algunas cosas por aprender, siento que puedo hacer y deshacer cualquier diseño con este lenguaje"
     },
@@ -34,6 +40,8 @@
       "percent": "88",
       "type": "1",
       "class": "",
+      "curso": false,
+      "cert": false,
       "search": [
         "frontend",
         "backend",
@@ -51,6 +59,8 @@
       "percent": "75",
       "type": "1",
       "class": "",
+      "curso": true,
+      "cert": true,
       "search": [
         "backend",
         "web",
@@ -66,6 +76,8 @@
       "percent": "75",
       "type": "1",
       "class": "",
+      "curso": false,
+      "cert": false,
       "search": [
         "frontend",
         "web",
@@ -82,6 +94,8 @@
       "percent": "88",
       "type": "1",
       "class": "",
+      "curso": false,
+      "cert": false,
       "search": [
         "frontend",
         "web",
@@ -98,6 +112,8 @@
       "percent": "35",
       "type": "2",
       "class": "",
+      "curso": false,
+      "cert": false,
       "desc": "",
       "search": [
         "frontend",
@@ -115,6 +131,8 @@
       "percent": "30",
       "type": "4",
       "class": "",
+      "curso": false,
+      "cert": false,
       "search": [
         "frontend",
         "web",
@@ -133,6 +151,8 @@
       "percent": "74",
       "type": "1",
       "class": "",
+      "curso": true,
+      "cert": false,
       "search": [
         "software",
         "py",
@@ -149,6 +169,8 @@
       "percent": "55",
       "type": "2",
       "class": "",
+      "curso": true,
+      "cert": false,
       "search": [
         "backend",
         "web",
@@ -165,6 +187,8 @@
       "percent": "15",
       "type": "3",
       "class": "",
+      "curso": false,
+      "cert": false,
       "search": [
         "backend",
         "web",
@@ -179,6 +203,8 @@
       "percent": "35",
       "type": "3",
       "class": "",
+      "curso": true,
+      "cert": false,
       "search": [
         "backend",
         "app",
@@ -195,6 +221,8 @@
       "percent": "33",
       "type": "3",
       "class": "",
+      "curso": false,
+      "cert": false,
       "search": [
         "backend",
         "frontend",
@@ -213,6 +241,8 @@
       "percent": "35",
       "type": "2",
       "class": "",
+      "curso": false,
+      "cert": false,
       "search": [
         "backend",
         "frontend",
@@ -230,6 +260,8 @@
       "percent": "50",
       "type": "2",
       "class": "",
+      "curso": true,
+      "cert": false,
       "search": [
         "backend",
         "database",
@@ -244,6 +276,8 @@
       "percent": "30",
       "type": "3",
       "class": "",
+      "curso": false,
+      "cert": false,
       "search": [
         "applicacion",
         "app",
@@ -257,6 +291,8 @@
       "percent": "30",
       "type": "3",
       "class": "",
+      "curso": false,
+      "cert": false,
       "search": [
         "applicacion",
         "app",
@@ -270,6 +306,8 @@
       "percent": "45",
       "type": "2",
       "class": "",
+      "curso": false,
+      "cert": false,
       "search": [
         "applicacion",
         "app",
@@ -287,6 +325,8 @@
       "percent": "100",
       "type": "1",
       "class": "",
+      "curso": true,
+      "cert": false,
       "search": [
         "api",
         "javascript",
@@ -306,6 +346,8 @@
       "percent": "50",
       "type": "2",
       "class": "",
+      "curso": false,
+      "cert": false,
       "search": [
         "backend",
         "frontend",
@@ -322,6 +364,8 @@
       "percent": "75",
       "type": "1",
       "class": "",
+      "curso": false,
+      "cert": false,
       "search": [
         "frontend",
         "web",
@@ -334,13 +378,15 @@
         "engine",
         "optimizacion"
       ],
-      "desc": "No soy experto, pero investigo mucho al respecto"
+      "desc": "Investigo mucho al respecto"
     },
     {
       "name": "Cookies",
       "percent": "45",
       "type": "2",
       "class": "",
+      "curso": false,
+      "cert": false,
       "search": [
         "frontend",
         "web",
@@ -357,6 +403,8 @@
       "percent": "56",
       "type": "2",
       "class": "",
+      "curso": false,
+      "cert": false,
       "search": [
         "frontend",
         "web",
@@ -377,6 +425,8 @@
         "percent": "80",
         "type": "1",
         "class": "",
+        "curso": false,
+        "cert": false,
         "search": [
           "vscode",
           "code",
@@ -393,6 +443,8 @@
         "percent": "75",
         "type": "1",
         "class": "",
+        "curso": true,
+        "cert": true,
         "search": [
           "gh",
           "github",
@@ -403,10 +455,28 @@
         "desc": "Hago uso frecuente de esta plataforma"
       },
       {
+        "name": "GIT",
+        "percent": "65",
+        "type": "2",
+        "class": "",
+        "curso": true,
+        "cert": true,
+        "search": [
+          "gh",
+          "github",
+          "gitlab",
+          "git",
+          "control de versiones"
+        ],
+        "desc": ""
+      },
+      {
         "name": "WordPress",
         "percent": "68",
         "type": "1",
         "class": "",
+        "curso": false,
+        "cert": false,
         "search": [
           "cms",
           "wordpress",
@@ -428,6 +498,8 @@
         "percent": "68",
         "type": "1",
         "class": "",
+        "curso": false,
+        "cert": false,
         "search": [
           "cms",
           "google",
@@ -447,6 +519,8 @@
         "percent": "35",
         "type": "2",
         "class": "",
+        "curso": false,
+        "cert": false,
         "search": [
           "flutter",
           "android",
@@ -462,6 +536,8 @@
         "percent": "95",
         "type": "1",
         "class": "",
+        "curso": false,
+        "cert": false,
         "search": [
           "userscripts",
           "frontend",
@@ -481,6 +557,8 @@
         "percent": "50",
         "type": "2",
         "class": "",
+        "curso": false,
+        "cert": false,
         "search": [
           "filezilla",
           "ftp",
@@ -494,6 +572,8 @@
         "percent": "38",
         "type": "3",
         "class": "",
+        "curso": false,
+        "cert": false,
         "search": [
           "ide",
           "desarrollo",
@@ -508,6 +588,8 @@
         "percent": "70",
         "type": "1",
         "class": "",
+        "curso": false,
+        "cert": false,
         "search": [
           "ide",
           "desarrollo",
@@ -522,6 +604,8 @@
         "percent": "80",
         "type": "1",
         "class": "",
+        "curso": false,
+        "cert": false,
         "search": [
           "cpanel",
           "panel de control",
@@ -537,6 +621,8 @@
         "percent": "80",
         "type": "1",
         "class": "",
+        "curso": false,
+        "cert": false,
         "search": [
           "cpanel",
           "panel de control",
@@ -552,6 +638,8 @@
         "percent": "80",
         "type": "3",
         "class": "",
+        "curso": false,
+        "cert": false,
         "search": [
           "google",
           "captcha",
@@ -571,6 +659,8 @@
         "percent": "75",
         "type": "1",
         "class": "",
+        "curso": false,
+        "cert": false,
         "search": [
           "google",
           "captcha",
@@ -590,6 +680,8 @@
         "percent": "70",
         "type": "1",
         "class": "",
+        "curso": false,
+        "cert": false,
         "search": [
           "trello",
           "time",
@@ -603,6 +695,8 @@
         "percent": "20",
         "type": "3",
         "class": "",
+        "curso": false,
+        "cert": false,
         "search": [
           "gh",
           "github",
@@ -618,6 +712,8 @@
         "percent": "80",
         "type": "2",
         "class": "",
+        "curso": false,
+        "cert": false,
         "search": [
           "trello",
           "time",
@@ -632,6 +728,8 @@
         "percent": "45",
         "type": "2",
         "class": "",
+        "curso": false,
+        "cert": false,
         "search": [
           "cloudflare",
           "web",
@@ -646,6 +744,8 @@
         "percent": "88",
         "type": "1",
         "class": "",
+        "curso": false,
+        "cert": false,
         "search": [
           "fontawesome",
           "cdn",
@@ -661,6 +761,8 @@
         "percent": "75",
         "type": "1",
         "class": "",
+        "curso": false,
+        "cert": false,
         "search": [
           "userscripts",
           "tampermonkey",
@@ -676,6 +778,8 @@
         "percent": "75",
         "type": "1",
         "class": "",
+        "curso": false,
+        "cert": false,
         "search": [
           "userscripts",
           "tampermonkey",
@@ -691,6 +795,8 @@
         "percent": "78",
         "type": "1",
         "class": "",
+        "curso": false,
+        "cert": false,
         "search": [
           "adfly",
           "ads",
@@ -704,10 +810,30 @@
         "percent": "40",
         "type": "2",
         "class": "",
+        "curso": false,
+        "cert": false,
         "search": [
           "google ads",
           "adsense",
           "publicidad"
+        ],
+        "desc": ""
+      },
+      {
+        "name": "Uptime Robot",
+        "percent": "55",
+        "type": "2",
+        "class": "",
+        "curso": false,
+        "cert": false,
+        "search": [
+          "uptime robot",
+          "api",
+          "javascript",
+          "js",
+          "php",
+          "json",
+          "status"
         ],
         "desc": ""
       }
@@ -718,6 +844,8 @@
         "percent": "75",
         "type": "1",
         "class": "",
+        "curso": false,
+        "cert": false,
         "search": [
           "photoshop",
           "ps",
@@ -734,6 +862,8 @@
         "percent": "25",
         "type": "3",
         "class": "",
+        "curso": false,
+        "cert": false,
         "search": [
           "edicion",
           "fl studio",
@@ -749,6 +879,8 @@
         "percent": "15",
         "type": "3",
         "class": "",
+        "curso": false,
+        "cert": false,
         "search": [
           "edicion",
           "audiovisual",
@@ -764,6 +896,8 @@
         "percent": "20",
         "type": "3",
         "class": "",
+        "curso": false,
+        "cert": false,
         "search": [
           "edicion",
           "audiovisual",
@@ -779,6 +913,8 @@
         "percent": "85",
         "type": "1",
         "class": "",
+        "curso": false,
+        "cert": false,
         "search": [
           "edicion",
           "audiovisual",
@@ -794,6 +930,8 @@
         "percent": "85",
         "type": "1",
         "class": "",
+        "curso": false,
+        "cert": false,
         "search": [
           "microsoft",
           "ms",
@@ -808,6 +946,8 @@
         "percent": "50",
         "type": "2",
         "class": "",
+        "curso": false,
+        "cert": false,
         "search": [
           "microsoft",
           "ms",
@@ -822,6 +962,8 @@
         "percent": "65",
         "type": "2",
         "class": "",
+        "curso": true,
+        "cert": false,
         "search": [
           "microsoft",
           "ms",
@@ -836,6 +978,8 @@
         "percent": "50",
         "type": "2",
         "class": "",
+        "curso": false,
+        "cert": false,
         "search": [
           "libre office",
           "office",
@@ -853,6 +997,8 @@
       "percent": "40",
       "type": "1",
       "class": "",
+      "curso": false,
+      "cert": false,
       "search": [
         "ingles",
         "español",
@@ -867,6 +1013,8 @@
       "percent": "18",
       "type": "2",
       "class": "",
+      "curso": false,
+      "cert": false,
       "search": [
         "español",
         "lengua de señas chilena",
