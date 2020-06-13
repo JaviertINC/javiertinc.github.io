@@ -31,7 +31,9 @@
         "estilos",
         "hoja de estilos",
         "style",
-        "userscripts"
+        "userscripts",
+        "ui",
+        "ux"
       ],
       "desc": "Llevo más de 7 años desarrollando con esta tecnología, a pesar de que me faltan algunas cosas por aprender, siento que puedo hacer y deshacer cualquier diseño con este lenguaje"
     },
@@ -103,7 +105,9 @@
         "css3",
         "bootstrap",
         "estilos",
-        "frameworks"
+        "frameworks",
+        "ui",
+        "ux"
       ],
       "desc": "He trabajado tanto con esta librería que me manejo muy bien con ella"
     },
@@ -251,7 +255,9 @@
         "flutter",
         "app",
         "aplicacion",
-        "api"
+        "api",
+        "ui",
+        "ux"
       ],
       "desc": ""
     },
@@ -342,24 +348,6 @@
       "desc": ""
     },
     {
-      "name": "NodeJS",
-      "percent": "50",
-      "type": "2",
-      "class": "",
-      "curso": false,
-      "cert": false,
-      "search": [
-        "backend",
-        "frontend",
-        "web",
-        "javascript",
-        "nodejs",
-        "yarn",
-        "npm"
-      ],
-      "desc": ""
-    },
-    {
       "name": "SEO",
       "percent": "75",
       "type": "1",
@@ -416,6 +404,39 @@
         "xmlhttprequest"
       ],
       "desc": ""
+    },
+    {
+      "name": "DiscordJS",
+      "percent": "30",
+      "type": "3",
+      "class": "",
+      "curso": false,
+      "cert": false,
+      "search": [
+        "discordjs",
+        "javascritp",
+        "js",
+        "nodejs"
+      ],
+      "desc": ""
+    },
+    {
+      "name": "SweetAlert",
+      "percent": "30",
+      "type": "3",
+      "class": "",
+      "curso": false,
+      "cert": false,
+      "search": [
+        "sweetalert2",
+        "swal2",
+        "javascritp",
+        "js",
+        "css",
+        "ui",
+        "ux"
+      ],
+      "desc": ""
     }
   ],
   "software": {
@@ -467,6 +488,24 @@
           "gitlab",
           "git",
           "control de versiones"
+        ],
+        "desc": ""
+      },
+      {
+        "name": "NodeJS",
+        "percent": "50",
+        "type": "2",
+        "class": "",
+        "curso": false,
+        "cert": false,
+        "search": [
+          "backend",
+          "frontend",
+          "web",
+          "javascript",
+          "nodejs",
+          "yarn",
+          "npm"
         ],
         "desc": ""
       },
@@ -1012,7 +1051,7 @@
       },
       {
         "name": "Zoom",
-        "percent": "80",
+        "percent": "90",
         "type": "1",
         "class": "",
         "curso": true,
