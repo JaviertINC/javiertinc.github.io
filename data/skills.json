@@ -1029,6 +1029,24 @@
         "desc": ""
       },
       {
+        "name": "Google Meets",
+        "percent": "40",
+        "type": "2",
+        "class": "",
+        "curso": false,
+        "cert": false,
+        "search": [
+          "google meets",
+          "chat",
+          "community",
+          "comunidad",
+          "videoconferencia",
+          "llamadas",
+          "voip"
+        ],
+        "desc": ""
+      },
+      {
         "name": "Skype",
         "percent": "50",
         "type": "3",
@@ -1106,7 +1124,7 @@
     },
     {
       "name": "Lengua de Señas Chilena",
-      "percent": "18",
+      "percent": "20",
       "type": "2",
       "class": "",
       "curso": false,
