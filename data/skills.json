@@ -989,6 +989,102 @@
         ],
         "desc": ""
       }
+    ],
+    "comunicacion": [
+      {
+        "name": "Discord",
+        "percent": "85",
+        "type": "1",
+        "class": "",
+        "curso": false,
+        "cert": false,
+        "search": [
+          "discordjs",
+          "bots",
+          "chat",
+          "community",
+          "comunidad",
+          "videoconferencia",
+          "llamadas",
+          "voip"
+        ],
+        "desc": ""
+      },
+      {
+        "name": "Zoom",
+        "percent": "80",
+        "type": "1",
+        "class": "",
+        "curso": true,
+        "cert": true,
+        "search": [
+          "zoom",
+          "chat",
+          "community",
+          "comunidad",
+          "videoconferencia",
+          "llamadas",
+          "voip"
+        ],
+        "desc": ""
+      },
+      {
+        "name": "Skype",
+        "percent": "50",
+        "type": "3",
+        "class": "",
+        "curso": false,
+        "cert": false,
+        "search": [
+          "skype",
+          "chat",
+          "community",
+          "comunidad",
+          "videoconferencia",
+          "llamadas",
+          "voip",
+          "ms",
+          "microsoft"
+        ],
+        "desc": ""
+      },
+      {
+        "name": "WhatsApp Business",
+        "percent": "65",
+        "type": "2",
+        "class": "",
+        "curso": false,
+        "cert": false,
+        "search": [
+          "whatsapp",
+          "chat",
+          "business",
+          "videoconferencia",
+          "llamadas",
+          "voip",
+          "ms",
+          "microsoft",
+          "empresarial"
+        ],
+        "desc": ""
+      },
+      {
+        "name": "Email Services",
+        "percent": "70",
+        "type": "2",
+        "class": "",
+        "curso": false,
+        "cert": false,
+        "search": [
+          "email",
+          "php",
+          "pop3",
+          "smtp",
+          "imap4",
+          "catching"
+        ],
+        "desc": ""
+      }
     ]
   },
   "idiomas": [
