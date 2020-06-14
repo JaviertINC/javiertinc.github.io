@@ -198,7 +198,8 @@
         "web",
         "go",
         "server",
-        "api"
+        "api",
+        "google"
       ],
       "desc": ""
     },
@@ -257,7 +258,8 @@
         "aplicacion",
         "api",
         "ui",
-        "ux"
+        "ux",
+        "google"
       ],
       "desc": ""
     },
@@ -566,7 +568,8 @@
           "iphone",
           "ios",
           "aplicaciones",
-          "dart"
+          "dart",
+          "google"
         ],
         "desc": ""
       },
@@ -687,7 +690,6 @@
           "js",
           "javascript",
           "php",
-          "react",
           "reactjs",
           "hcaptcha"
         ],
@@ -701,16 +703,15 @@
         "curso": false,
         "cert": false,
         "search": [
-          "google",
-          "captcha",
+          "hcaptcha",
           "recaptcha",
           "jtcaptcha",
           "js",
           "javascript",
           "php",
-          "react",
           "reactjs",
-          "hcaptcha"
+          "nodejs",
+          "cloudflare"
         ],
         "desc": ""
       },
@@ -845,6 +846,38 @@
         "desc": ""
       },
       {
+        "name": "Google Analytitcs",
+        "percent": "63",
+        "type": "2",
+        "class": "",
+        "curso": false,
+        "cert": false,
+        "search": [
+          "google analytics",
+          "analisis",
+          "datos",
+          "big data",
+          "adsense",
+          "marketing"
+        ],
+        "desc": ""
+      },
+      {
+        "name": "Google AdSense",
+        "percent": "40",
+        "type": "2",
+        "class": "",
+        "curso": false,
+        "cert": false,
+        "search": [
+          "google ads",
+          "adsense",
+          "publicidad",
+          "marketing"
+        ],
+        "desc": ""
+      },
+      {
         "name": "Google Ads",
         "percent": "40",
         "type": "2",
@@ -854,7 +887,8 @@
         "search": [
           "google ads",
           "adsense",
-          "publicidad"
+          "publicidad",
+          "marketing"
         ],
         "desc": ""
       },
@@ -875,6 +909,35 @@
           "status"
         ],
         "desc": ""
+      },
+      {
+        "name": "CiscoVPN",
+        "percent": "70",
+        "type": "2",
+        "class": "",
+        "curso": false,
+        "cert": false,
+        "search": [
+          "ciscovpn",
+          "localhost",
+          "redes"
+        ],
+        "desc": ""
+      },
+      {
+        "name": "Hamachi",
+        "percent": "75",
+        "type": "2",
+        "class": "",
+        "curso": false,
+        "cert": false,
+        "search": [
+          "logmein hamachi",
+          "localhost",
+          "vpn",
+          "redes"
+        ],
+        "desc": ""
       }
     ],
     "multimedia": [
@@ -892,7 +955,8 @@
           "imagenes",
           "fotos",
           "fotografia",
-          "edicion"
+          "edicion",
+          "adobe suite"
         ],
         "desc": ""
       },
