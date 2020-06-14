@@ -390,7 +390,7 @@
     },
     {
       "name": "Ajax",
-      "percent": "56",
+      "percent": "60",
       "type": "2",
       "class": "",
       "curso": false,
@@ -424,8 +424,8 @@
     },
     {
       "name": "SweetAlert",
-      "percent": "30",
-      "type": "3",
+      "percent": "85",
+      "type": "2",
       "class": "",
       "curso": false,
       "cert": false,
@@ -832,7 +832,7 @@
       },
       {
         "name": "Adfly",
-        "percent": "78",
+        "percent": "90",
         "type": "1",
         "class": "",
         "curso": false,
@@ -842,6 +842,21 @@
           "ads",
           "adsense",
           "publicidad"
+        ],
+        "desc": ""
+      },
+      {
+        "name": "FeedBurner",
+        "percent": "75",
+        "type": "1",
+        "class": "",
+        "curso": false,
+        "cert": false,
+        "search": [
+          "google feedburner",
+          "marketing",
+          "rss",
+          "email"
         ],
         "desc": ""
       },
@@ -864,7 +879,7 @@
       },
       {
         "name": "Google AdSense",
-        "percent": "40",
+        "percent": "60",
         "type": "2",
         "class": "",
         "curso": false,
