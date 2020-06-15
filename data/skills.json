@@ -1,5 +1,5 @@
 {
-  "update": "2020-06-15T09:44:52.202Z",
+  "update": "2020-06-15T09:47:26.002Z",
   "lenguajes": [
     {
       "name": "HTML",
@@ -406,305 +406,6 @@
         "ux"
       ],
       "desc": ""
-    },
-    {
-      "name": "SEO",
-      "percent": "75",
-      "type": "1",
-      "class": "",
-      "curso": false,
-      "cert": false,
-      "search": [
-        "frontend",
-        "web",
-        "html",
-        "meta",
-        "tags",
-        "seo",
-        "search",
-        "buscador",
-        "engine",
-        "optimizacion"
-      ],
-      "desc": "Investigo mucho al respecto"
-    },
-    {
-      "name": "Cookies",
-      "percent": "45",
-      "type": "2",
-      "class": "",
-      "curso": false,
-      "cert": false,
-      "search": [
-        "frontend",
-        "web",
-        "javascript",
-        "js",
-        "php",
-        "userscripts",
-        "cookies"
-      ],
-      "desc": ""
-    },
-    {
-      "name": "Ajax",
-      "percent": "60",
-      "type": "2",
-      "class": "",
-      "curso": false,
-      "cert": false,
-      "search": [
-        "frontend",
-        "web",
-        "javascritp",
-        "js",
-        "jquery",
-        "userscripts",
-        "ajax",
-        "xmlhttprequest"
-      ],
-      "desc": "",
-      "dev": [
-        {
-          "name": "Trello",
-          "percent": "70",
-          "type": "1",
-          "class": "",
-          "curso": false,
-          "cert": false,
-          "search": [
-            "trello",
-            "time",
-            "tareas",
-            "scrum agile"
-          ],
-          "desc": "Hago uso frecuente de esta plataforma para administrar de forma optima mis actividades y las de mis proyectos"
-        },
-        {
-          "name": "GitLab",
-          "percent": "20",
-          "type": "3",
-          "class": "",
-          "curso": false,
-          "cert": false,
-          "search": [
-            "gh",
-            "github",
-            "git",
-            "versiones",
-            "control de versiones",
-            "gitlab"
-          ],
-          "desc": ""
-        },
-        {
-          "name": "TimeDoctor Client",
-          "percent": "80",
-          "type": "2",
-          "class": "",
-          "curso": false,
-          "cert": false,
-          "search": [
-            "trello",
-            "time",
-            "tareas",
-            "timedoctor",
-            "time doctor"
-          ],
-          "desc": ""
-        },
-        {
-          "name": "CloudFlare",
-          "percent": "45",
-          "type": "2",
-          "class": "",
-          "curso": false,
-          "cert": false,
-          "search": [
-            "cloudflare",
-            "web",
-            "frontend",
-            "backend",
-            "cdn"
-          ],
-          "desc": ""
-        },
-        {
-          "name": "FontAwesome",
-          "percent": "88",
-          "type": "1",
-          "class": "",
-          "curso": false,
-          "cert": false,
-          "search": [
-            "fontawesome",
-            "cdn",
-            "icons",
-            "css",
-            "javascript",
-            "js"
-          ],
-          "desc": ""
-        },
-        {
-          "name": "Tampermonkey",
-          "percent": "75",
-          "type": "1",
-          "class": "",
-          "curso": false,
-          "cert": false,
-          "search": [
-            "userscripts",
-            "tampermonkey",
-            "greasemonkey",
-            "js",
-            "javascript",
-            "css"
-          ],
-          "desc": ""
-        },
-        {
-          "name": "Greasemonkey",
-          "percent": "75",
-          "type": "1",
-          "class": "",
-          "curso": false,
-          "cert": false,
-          "search": [
-            "userscripts",
-            "tampermonkey",
-            "greasemonkey",
-            "js",
-            "javascript",
-            "css"
-          ],
-          "desc": ""
-        },
-        {
-          "name": "Adfly",
-          "percent": "90",
-          "type": "1",
-          "class": "",
-          "curso": false,
-          "cert": false,
-          "search": [
-            "adfly",
-            "ads",
-            "adsense",
-            "publicidad"
-          ],
-          "desc": ""
-        },
-        {
-          "name": "FeedBurner",
-          "percent": "75",
-          "type": "1",
-          "class": "",
-          "curso": false,
-          "cert": false,
-          "search": [
-            "google feedburner",
-            "marketing",
-            "rss",
-            "email"
-          ],
-          "desc": ""
-        },
-        {
-          "name": "Google Analytitcs",
-          "percent": "63",
-          "type": "2",
-          "class": "",
-          "curso": false,
-          "cert": false,
-          "search": [
-            "google analytics",
-            "analisis",
-            "datos",
-            "big data",
-            "adsense",
-            "marketing"
-          ],
-          "desc": ""
-        },
-        {
-          "name": "Google AdSense",
-          "percent": "60",
-          "type": "2",
-          "class": "",
-          "curso": false,
-          "cert": false,
-          "search": [
-            "google ads",
-            "adsense",
-            "publicidad",
-            "marketing"
-          ],
-          "desc": ""
-        },
-        {
-          "name": "Google Ads",
-          "percent": "40",
-          "type": "2",
-          "class": "",
-          "curso": false,
-          "cert": false,
-          "search": [
-            "google ads",
-            "adsense",
-            "publicidad",
-            "marketing"
-          ],
-          "desc": ""
-        },
-        {
-          "name": "Uptime Robot",
-          "percent": "55",
-          "type": "2",
-          "class": "",
-          "curso": false,
-          "cert": false,
-          "search": [
-            "uptime robot",
-            "api",
-            "javascript",
-            "js",
-            "php",
-            "json",
-            "status"
-          ],
-          "desc": ""
-        },
-        {
-          "name": "CiscoVPN",
-          "percent": "70",
-          "type": "2",
-          "class": "",
-          "curso": false,
-          "cert": false,
-          "search": [
-            "ciscovpn",
-            "localhost",
-            "redes"
-          ],
-          "desc": ""
-        },
-        {
-          "name": "Hamachi",
-          "percent": "75",
-          "type": "2",
-          "class": "",
-          "curso": false,
-          "cert": false,
-          "search": [
-            "logmein hamachi",
-            "localhost",
-            "vpn",
-            "redes"
-          ],
-          "desc": ""
-        }
-      ]
     }
   ],
   "software": {
@@ -978,6 +679,303 @@
           "reactjs",
           "nodejs",
           "cloudflare"
+        ],
+        "desc": ""
+      },
+      {
+        "name": "SEO",
+        "percent": "75",
+        "type": "1",
+        "class": "",
+        "curso": false,
+        "cert": false,
+        "search": [
+          "frontend",
+          "web",
+          "html",
+          "meta",
+          "tags",
+          "seo",
+          "search",
+          "buscador",
+          "engine",
+          "optimizacion"
+        ],
+        "desc": "Investigo mucho al respecto"
+      },
+      {
+        "name": "Cookies",
+        "percent": "45",
+        "type": "2",
+        "class": "",
+        "curso": false,
+        "cert": false,
+        "search": [
+          "frontend",
+          "web",
+          "javascript",
+          "js",
+          "php",
+          "userscripts",
+          "cookies"
+        ],
+        "desc": ""
+      },
+      {
+        "name": "Ajax",
+        "percent": "60",
+        "type": "2",
+        "class": "",
+        "curso": false,
+        "cert": false,
+        "search": [
+          "frontend",
+          "web",
+          "javascritp",
+          "js",
+          "jquery",
+          "userscripts",
+          "ajax",
+          "xmlhttprequest"
+        ],
+        "desc": ""
+      },
+      {
+        "name": "Trello",
+        "percent": "70",
+        "type": "1",
+        "class": "",
+        "curso": false,
+        "cert": false,
+        "search": [
+          "trello",
+          "time",
+          "tareas",
+          "scrum agile"
+        ],
+        "desc": "Hago uso frecuente de esta plataforma para administrar de forma optima mis actividades y las de mis proyectos"
+      },
+      {
+        "name": "GitLab",
+        "percent": "20",
+        "type": "3",
+        "class": "",
+        "curso": false,
+        "cert": false,
+        "search": [
+          "gh",
+          "github",
+          "git",
+          "versiones",
+          "control de versiones",
+          "gitlab"
+        ],
+        "desc": ""
+      },
+      {
+        "name": "TimeDoctor Client",
+        "percent": "80",
+        "type": "2",
+        "class": "",
+        "curso": false,
+        "cert": false,
+        "search": [
+          "trello",
+          "time",
+          "tareas",
+          "timedoctor",
+          "time doctor"
+        ],
+        "desc": ""
+      },
+      {
+        "name": "CloudFlare",
+        "percent": "45",
+        "type": "2",
+        "class": "",
+        "curso": false,
+        "cert": false,
+        "search": [
+          "cloudflare",
+          "web",
+          "frontend",
+          "backend",
+          "cdn"
+        ],
+        "desc": ""
+      },
+      {
+        "name": "FontAwesome",
+        "percent": "88",
+        "type": "1",
+        "class": "",
+        "curso": false,
+        "cert": false,
+        "search": [
+          "fontawesome",
+          "cdn",
+          "icons",
+          "css",
+          "javascript",
+          "js"
+        ],
+        "desc": ""
+      },
+      {
+        "name": "Tampermonkey",
+        "percent": "75",
+        "type": "1",
+        "class": "",
+        "curso": false,
+        "cert": false,
+        "search": [
+          "userscripts",
+          "tampermonkey",
+          "greasemonkey",
+          "js",
+          "javascript",
+          "css"
+        ],
+        "desc": ""
+      },
+      {
+        "name": "Greasemonkey",
+        "percent": "75",
+        "type": "1",
+        "class": "",
+        "curso": false,
+        "cert": false,
+        "search": [
+          "userscripts",
+          "tampermonkey",
+          "greasemonkey",
+          "js",
+          "javascript",
+          "css"
+        ],
+        "desc": ""
+      },
+      {
+        "name": "Adfly",
+        "percent": "90",
+        "type": "1",
+        "class": "",
+        "curso": false,
+        "cert": false,
+        "search": [
+          "adfly",
+          "ads",
+          "adsense",
+          "publicidad"
+        ],
+        "desc": ""
+      },
+      {
+        "name": "FeedBurner",
+        "percent": "75",
+        "type": "1",
+        "class": "",
+        "curso": false,
+        "cert": false,
+        "search": [
+          "google feedburner",
+          "marketing",
+          "rss",
+          "email"
+        ],
+        "desc": ""
+      },
+      {
+        "name": "Google Analytitcs",
+        "percent": "63",
+        "type": "2",
+        "class": "",
+        "curso": false,
+        "cert": false,
+        "search": [
+          "google analytics",
+          "analisis",
+          "datos",
+          "big data",
+          "adsense",
+          "marketing"
+        ],
+        "desc": ""
+      },
+      {
+        "name": "Google AdSense",
+        "percent": "60",
+        "type": "2",
+        "class": "",
+        "curso": false,
+        "cert": false,
+        "search": [
+          "google ads",
+          "adsense",
+          "publicidad",
+          "marketing"
+        ],
+        "desc": ""
+      },
+      {
+        "name": "Google Ads",
+        "percent": "40",
+        "type": "2",
+        "class": "",
+        "curso": false,
+        "cert": false,
+        "search": [
+          "google ads",
+          "adsense",
+          "publicidad",
+          "marketing"
+        ],
+        "desc": ""
+      },
+      {
+        "name": "Uptime Robot",
+        "percent": "55",
+        "type": "2",
+        "class": "",
+        "curso": false,
+        "cert": false,
+        "search": [
+          "uptime robot",
+          "api",
+          "javascript",
+          "js",
+          "php",
+          "json",
+          "status"
+        ],
+        "desc": ""
+      },
+      {
+        "name": "CiscoVPN",
+        "percent": "70",
+        "type": "2",
+        "class": "",
+        "curso": false,
+        "cert": false,
+        "search": [
+          "ciscovpn",
+          "localhost",
+          "redes"
+        ],
+        "desc": ""
+      },
+      {
+        "name": "Hamachi",
+        "percent": "75",
+        "type": "2",
+        "class": "",
+        "curso": false,
+        "cert": false,
+        "search": [
+          "logmein hamachi",
+          "localhost",
+          "vpn",
+          "redes"
         ],
         "desc": ""
       }
