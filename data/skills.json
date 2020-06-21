@@ -1,5 +1,5 @@
 {
-  "update": "2020-06-15T09:47:26.002Z",
+  "update": "2020-06-21T12:47:19.115Z",
   "lenguajes": [
     {
       "name": "HTML",
@@ -986,7 +986,7 @@
         "percent": "75",
         "type": "1",
         "class": "",
-        "curso": false,
+        "curso": true,
         "cert": false,
         "search": [
           "photoshop",
@@ -1234,7 +1234,7 @@
         "percent": "70",
         "type": "2",
         "class": "",
-        "curso": false,
+        "curso": true,
         "cert": false,
         "search": [
           "email",
@@ -1242,7 +1242,23 @@
           "pop3",
           "smtp",
           "imap4",
-          "catching"
+          "catching",
+          "marketing"
+        ],
+        "desc": ""
+      },
+      {
+        "name": "Instagram",
+        "percent": "85",
+        "type": "2",
+        "class": "",
+        "curso": true,
+        "cert": false,
+        "search": [
+          "instagram",
+          "ig",
+          "community",
+          "comunidad"
         ],
         "desc": ""
       }
