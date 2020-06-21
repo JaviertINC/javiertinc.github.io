@@ -1,5 +1,5 @@
 {
-  "update": "2020-06-21T12:47:19.115Z",
+  "update": "2020-06-21T21:20:23.205Z",
   "lenguajes": [
     {
       "name": "HTML",
@@ -404,6 +404,21 @@
         "css",
         "ui",
         "ux"
+      ],
+      "desc": ""
+    },
+    {
+      "name": "MarkDown",
+      "percent": "98",
+      "type": "1",
+      "class": "",
+      "curso": true,
+      "cert": false,
+      "search": [
+        "markdown",
+        "md",
+        "preprocesadores",
+        "html"
       ],
       "desc": ""
     }
@@ -1283,7 +1298,7 @@
     },
     {
       "name": "Lengua de Señas Chilena",
-      "percent": "20",
+      "percent": "22",
       "type": "2",
       "class": "",
       "curso": false,
