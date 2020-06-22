@@ -1,5 +1,5 @@
 {
-  "update": "2020-06-21T21:20:23.205Z",
+  "update": "2020-06-22T10:15:02.380Z",
   "lenguajes": [
     {
       "name": "HTML",
@@ -402,6 +402,21 @@
         "javascritp",
         "js",
         "css",
+        "ui",
+        "ux"
+      ],
+      "desc": ""
+    },
+    {
+      "name": "Animate.css",
+      "percent": "75",
+      "type": "2",
+      "class": "",
+      "curso": false,
+      "cert": false,
+      "search": [
+        "animate.css",
+        "animacion",
         "ui",
         "ux"
       ],
@@ -1298,7 +1313,7 @@
     },
     {
       "name": "Lengua de Señas Chilena",
-      "percent": "22",
+      "percent": "20",
       "type": "2",
       "class": "",
       "curso": false,
