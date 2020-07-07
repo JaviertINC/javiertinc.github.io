@@ -491,6 +491,22 @@
         "desc": ""
       },
       {
+        "name": "BitBucket",
+        "percent": "55",
+        "type": "2",
+        "class": "",
+        "curso": false,
+        "cert": false,
+        "search": [
+          "bitbucket",
+          "github",
+          "gitlab",
+          "git",
+          "control de versiones"
+        ],
+        "desc": ""
+      },
+      {
         "name": "NodeJS",
         "percent": "50",
         "type": "2",
