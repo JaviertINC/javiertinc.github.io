@@ -1313,7 +1313,7 @@
   "idiomas": [
     {
       "name": "Inglés",
-      "percent": "40",
+      "percent": "42",
       "type": "1",
       "class": "",
       "curso": false,
@@ -1329,7 +1329,7 @@
     },
     {
       "name": "Lengua de Señas Chilena",
-      "percent": "20",
+      "percent": "26",
       "type": "2",
       "class": "",
       "curso": false,
