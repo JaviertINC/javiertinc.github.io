@@ -35,6 +35,11 @@
         "faicon": "fab fa-github",
         "url": "https://www.github.com/"
       },
+      "behance": {
+        "nick": "JaviertINC",
+        "faicon": "fab fa-behance",
+        "url": "https://www.behance.net/"
+      },
       "trello": {
         "nick": "JaviertINC",
         "faicon": "fab fa-trello",
