@@ -1,0 +1,58 @@
+{
+  "main": {
+    "word": [
+      {
+        "es": "Inicio",
+        "en": "Home"
+      },
+      {
+        "es": "Perfil",
+        "en": "Profile"
+      },
+      {
+        "es": "Blog",
+        "en": "Blog"
+      },
+      {
+        "es": "Portafolios",
+        "en": "Birefcase"
+      },
+      {
+        "es": "Contacto",
+        "en": "Contact"
+      },
+      {
+        "es": "Sitio web oficial de JaviertINC",
+        "en": "JaviertINC's official website"
+      },
+      {
+        "es": "Hola Mundo",
+        "en": "Hello World"
+      },
+      {
+        "es": "Mi nombre es {{{fistname}}} {{{lastname}}}, también conocido como [b]{{{nick}}}[/b], y soy Programador Informático. He desarrollado este sitio web para compartir mis creaciones y enseñar lo que me gusta hacer.",
+        "en": "My name is {{{fistname}}} {{{lastname}}}, also known as [b]{{{nick}}}[/b], and I am a Computer Programmer. I have developed this website to share my creations and show what I like to do."
+      },
+      {
+        "es": "Más sobre mí",
+        "en": "More about me"
+      },
+      {
+        "es": "¡Hola!",
+        "en": "Hello!"
+      },
+      {
+        "es": "Algunos de mis proyectos",
+        "en": "Some of my projects"
+      },
+      {
+        "es": "Soy Programador Informático, especializado en el diseño, desarrollo y modificación Web. Licenciado como [b]Técnico Programador Informático[/b] y estudiante de [b]Ingeniería Informática[/b].",
+        "en": "I am a Computer Programmer, specialized in web design, development and modification. Graduated as a [b]Computer Programmer Technician[/b] and a [b]Computer Engineering[/b] student."
+      },
+      {
+        "es": "Últimas Publicaciones",
+        "en": "Latest posts"
+      }
+    ]
+  }
+}
