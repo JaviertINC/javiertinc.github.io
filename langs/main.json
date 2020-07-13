@@ -38,6 +38,42 @@
         "en": "Not all objects have details."
       },
       {
+        "es": "Mes",
+        "en": "Month"
+      },
+      {
+        "es": "Meses",
+        "en": "Months"
+      },
+      {
+        "es": "Actualidad",
+        "en": "Present"
+      },
+      {
+        "es": "Remoto",
+        "en": "Remote"
+      },
+      {
+        "es": "Presencial",
+        "en": "On-site"
+      },
+      {
+        "es": "Presencial y Remoto",
+        "en": "On-site and Remote"
+      },
+      {
+        "es": "Sitio Web",
+        "en": "Website"
+      },
+      {
+        "es": "Curso",
+        "en": "Course"
+      },
+      {
+        "es": "Certificación",
+        "en": "Certification"
+      },
+      {
         "es": "Inicio",
         "en": "Home"
       },
@@ -110,6 +146,98 @@
         "en": "No updates yet"
       },
       {
+        "es": "Solicitar CV",
+        "en": "Request CV"
+      },
+      {
+        "es": "Contactar",
+        "en": "Contact"
+      },
+      {
+        "es": "Experiencias Profesionales",
+        "en": "Professional experiences"
+      },
+      {
+        "es": "Descripción breve",
+        "en": "Brief description"
+      },
+      {
+        "es": "Sin Oficina",
+        "en": "Without Office"
+      },
+      {
+        "es": "Competencias",
+        "en": "Competences"
+      },
+      {
+        "es": "Responsabilidad",
+        "en": "Responsibility"
+      },
+      {
+        "es": "Autogestión",
+        "en": "Self-management"
+      },
+      {
+        "es": "Liderazgo",
+        "en": "Leadership"
+      },
+      {
+        "es": "Motivación",
+        "en": "Motivation"
+      },
+      {
+        "es": "Inteligencia Social",
+        "en": "Social intelligence"
+      },
+      {
+        "es": "Autonomía",
+        "en": "Autonomy"
+      },
+      {
+        "es": "Arbitraje",
+        "en": "Arbitration"
+      },
+      {
+        "es": "Cooperación",
+        "en": "Cooperation"
+      },
+      {
+        "es": "Habilidades",
+        "en": "Skills"
+      },
+      {
+        "es": "Buscar un término",
+        "en": "Search a term"
+      },
+      {
+        "es": "Tecnologías de Programación",
+        "en": "Programming Technologies"
+      },
+      {
+        "es": "Idiomas y Lenguas",
+        "en": "Languages"
+      },
+      {
+        "es": "Software de Desarrollo",
+        "en": "Development Software"
+      },
+      {
+        "es": "Ofimática",
+        "en": "Office Software"
+      },
+      {
+        "es": "Software Comunicación",
+        "en": "Communication Software"
+      },
+      {
+        "es": "Multimedia",
+        "en": "Multimedia software"
+      },
+      {
+        "es": "Actualizado el",
+        "en": "Updated on"
+      },
+      {
         "es": "Ve mis últimas modificaciones de Userscrips",
         "en": "See my latest Userscrips modifications"
       },
@@ -120,6 +248,46 @@
       {
         "es": "¡Comparte tus capturas ahora mismo!",
         "en": "Share your screenshots right now!"
+      },
+      {
+        "es": "Algunos de mis repositorios en Github",
+        "en": "Some of my repositories on Github"
+      },
+      {
+        "es": "Contribuciones en Github",
+        "en": "Contributions on Github"
+      },
+      {
+        "es": "contribuciones en",
+        "en": "contributions in"
+      },
+      {
+        "es": "Lun",
+        "en": "Mon"
+      },
+      {
+        "es": "Mar",
+        "en": "Tue"
+      },
+      {
+        "es": "Mié",
+        "en": "Wed"
+      },
+      {
+        "es": "Jue",
+        "en": "Thu"
+      },
+      {
+        "es": "Vie",
+        "en": "Fri"
+      },
+      {
+        "es": "Sáb",
+        "en": "Sat"
+      },
+      {
+        "es": "Dom",
+        "en": "Sun"
       }
     ]
   }
