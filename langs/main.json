@@ -2,6 +2,42 @@
   "main": {
     "word": [
       {
+        "es": "Ver todos los Proyectos",
+        "en": "See all the projects"
+      },
+      {
+        "es": "Idioma",
+        "en": "Language"
+      },
+      {
+        "es": "Accesibilidad",
+        "en": "Aaccessibility"
+      },
+      {
+        "es": "Idiomas disponibles",
+        "en": "Available languages"
+      },
+      {
+        "es": "Accesibilidad del Sitio",
+        "en": "Site Accessibility"
+      },
+      {
+        "es": "Este sitio web es compatible con las herramientas de accesibilidad del navegador.",
+        "en": "This website is compatible with browser accessibility tools."
+      },
+      {
+        "es": "¿Y esto cómo funciona?",
+        "en": "And how does this work?"
+      },
+      {
+        "es": "Con solo 6 teclas de tu computador, podrás navegar por todo este sitio web si necesidad de utilizar el mouse.",
+        "en": "With just 6 keys on your computer, you can browse this entire website without using the mouse."
+      },
+      {
+        "es": "No todos los objetos tienen detalles.",
+        "en": "Not all objects have details."
+      },
+      {
         "es": "Inicio",
         "en": "Home"
       },
