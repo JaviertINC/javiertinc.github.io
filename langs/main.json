@@ -58,8 +58,16 @@
         "en": "Birefcase"
       },
       {
+        "es": "Portafolio Musical",
+        "en": "Musical Portfolio"
+      },
+      {
         "es": "Contacto",
         "en": "Contact"
+      },
+      {
+        "es": "Ingresar",
+        "en": "Login"
       },
       {
         "es": "Sitio web oficial de JaviertINC",
@@ -92,6 +100,14 @@
       {
         "es": "Últimas Publicaciones",
         "en": "Latest posts"
+      },
+      {
+        "es": "Ver todas las publicaciones",
+        "en": "View all posts"
+      },
+      {
+        "es": "Aún no hay actualizaciones",
+        "en": "No updates yet"
       },
       {
         "es": "Ve mis últimas modificaciones de Userscrips",
