@@ -11,7 +11,7 @@
       },
       {
         "es": "Accesibilidad",
-        "en": "Aaccessibility"
+        "en": "Accessibility"
       },
       {
         "es": "Idiomas disponibles",
@@ -92,6 +92,18 @@
       {
         "es": "Últimas Publicaciones",
         "en": "Latest posts"
+      },
+      {
+        "es": "Ve mis últimas modificaciones de Userscrips",
+        "en": "See my latest Userscrips modifications"
+      },
+      {
+        "es": "Comparte tus capturas con tus amigos[br]de una forma simple, rápida y totalmente gratuita.[br]No requiere registro, ni contraseñas.",
+        "en": "Share your screenshots with your friends[br]in a simple, fast and totally free way.[br]Does not require registration or passwords."
+      },
+      {
+        "es": "¡Comparte tus capturas ahora mismo!",
+        "en": "Share your screenshots right now!"
       }
     ]
   }
