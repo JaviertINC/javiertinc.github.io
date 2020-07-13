@@ -46,6 +46,10 @@
         "en": "Profile"
       },
       {
+        "es": "Certificaciones",
+        "en": "Certifications"
+      },
+      {
         "es": "Blog",
         "en": "Blog"
       },
@@ -66,8 +70,8 @@
         "en": "Hello World"
       },
       {
-        "es": "Mi nombre es {{{fistname}}} {{{lastname}}}, también conocido como [b c_\"txt-green\"]{{{nick}}}[/b], y soy Programador Informático. He desarrollado este sitio web para compartir mis creaciones y enseñar lo que me gusta hacer.",
-        "en": "My name is {{{fistname}}} {{{lastname}}}, also known as [b c_\"txt-green\"]{{{nick}}}[/b], and I am a Computer Programmer. I have developed this website to share my creations and show what I like to do."
+        "es": "Mi nombre es {{{firstname}}} {{{lastname}}}, también conocido como [b c_\"txt-green\"]{{{nick}}}[/b], y soy Programador Informático. He desarrollado este sitio web para compartir mis creaciones y enseñar lo que me gusta hacer.",
+        "en": "My name is {{{firstname}}} {{{lastname}}}, also known as [b c_\"txt-green\"]{{{nick}}}[/b], and I am a Computer Programmer. I have developed this website to share my creations and show what I like to do."
       },
       {
         "es": "Más sobre mí",
