@@ -74,6 +74,14 @@
         "en": "Certification"
       },
       {
+        "es": "Ver",
+        "en": "View"
+      },
+      {
+        "es": "Descargar",
+        "en": "Download"
+      },
+      {
         "es": "Inicio",
         "en": "Home"
       },
@@ -114,8 +122,8 @@
         "en": "Hello World"
       },
       {
-        "es": "Mi nombre es {{{firstname}}} {{{lastname}}}, también conocido como [b c_\"txt-green\"]{{{nick}}}[/b], y soy Programador Informático. He desarrollado este sitio web para compartir mis creaciones y enseñar lo que me gusta hacer.",
-        "en": "My name is {{{firstname}}} {{{lastname}}}, also known as [b c_\"txt-green\"]{{{nick}}}[/b], and I am a Computer Programmer. I have developed this website to share my creations and show what I like to do."
+        "es": "Mi nombre es {{{firstname}}} {{{lastname}}}, también conocido como [b_green]{{{nick}}}[/b], y soy Programador Informático. He desarrollado este sitio web para compartir mis creaciones y enseñar lo que me gusta hacer.",
+        "en": "My name is {{{firstname}}} {{{lastname}}}, also known as [b_green]{{{nick}}}[/b], and I am a Computer Programmer. I have developed this website to share my creations and show what I like to do."
       },
       {
         "es": "Más sobre mí",
@@ -236,6 +244,22 @@
       {
         "es": "Actualizado el",
         "en": "Updated on"
+      },
+      {
+        "es": "Cursos y Certificaciones",
+        "en": "Courses and Certifications"
+      },
+      {
+        "es": "Curso y Certificado",
+        "en": "Course and Certification"
+      },
+      {
+        "es": "Carrera y Certificado",
+        "en": "Career and Certificate"
+      },
+      {
+        "es": "Cursando",
+        "en": "Studying"
       },
       {
         "es": "Ve mis últimas modificaciones de Userscrips",
