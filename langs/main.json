@@ -34,6 +34,34 @@
         "en": "With just 6 keys on your computer, you can browse this entire website without using the mouse."
       },
       {
+        "es": "Con las flechas {{{key0}}} y {{{key1}}}, puedes subir y bajar el Scroll.",
+        "en": "Using the {{{key0}}} and {{{key1}}} arrows, move the Scroll up and down."
+      },
+      {
+        "es": "Al presionar la tecla {{{key}}}, puedes avanzar entre los objetos del sitio.",
+        "en": "By pressing the {{{key}}} key, you can advance between the objects on the site."
+      },
+      {
+        "es": "Al presionar las teclas {{{key0}}} + {{{key1}}}, puedes retroceder entre los objetos del sitio.",
+        "en": "By pressing the {{{key0}}} + {{{key1}}} keys, you can go back and forth between objects on the site."
+      },
+      {
+        "es": "Si estás sobre un elemento el cual quieres abrir o ejecutar, solo basta con presionar {{{key}}}.",
+        "en": "If you are on an element which you want to open or execute, just press {{{key}}}."
+      },
+      {
+        "es": "Con la tecla {{{key}}}, podrás salir del focus e informaciones.",
+        "en": "With the {{{key}}} key, you can exit focus and information."
+      },
+      {
+        "es": "El sitio está diseñado para que cuando coloque el cursor o el focus sobre algún elemento, puedas ver detalles acerca de este.",
+        "en": "The site is designed so that when you hover or focus on an item, you can see details about it."
+      },
+      {
+        "es": "Al final de la barra superior, está el botón {{{key}}} para poder ver esta información nuevamente.",
+        "en": "At the end of the top bar, there is the button {{{key}}} to see this information again."
+      },
+      {
         "es": "No todos los objetos tienen detalles.",
         "en": "Not all objects have details."
       },
