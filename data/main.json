@@ -140,8 +140,8 @@
     {
       "id": "9",
       "status": "0",
-      "name": "Minecraft",
-      "url": "/minecraft",
+      "name": "JTCraft",
+      "url": "/jtcraft",
       "css": "{color: #fff!important; background-color: #36b030!important; }",
       "target": "_top"
     },
