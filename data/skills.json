@@ -819,6 +819,21 @@
         "desc": ""
       },
       {
+        "name": "Sketch",
+        "percent": "60",
+        "type": "2",
+        "class": "",
+        "curso": true,
+        "cert": false,
+        "search": [
+          "sketch",
+          "animaciones",
+          "animations",
+          "css"
+        ],
+        "desc": ""
+      },
+      {
         "name": "TimeDoctor Client",
         "percent": "80",
         "type": "2",
