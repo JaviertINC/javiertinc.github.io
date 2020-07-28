@@ -114,7 +114,7 @@
     },
     {
       "name": "React",
-      "percent": "35",
+      "percent": "45",
       "type": "2",
       "class": "",
       "curso": false,
@@ -133,8 +133,8 @@
     },
     {
       "name": "Angular",
-      "percent": "30",
-      "type": "4",
+      "percent": "40",
+      "type": "2",
       "class": "",
       "curso": false,
       "cert": false,
@@ -147,6 +147,22 @@
         "angularjs",
         "angular7",
         "ng",
+        "frameworks"
+      ],
+      "desc": ""
+    },
+    {
+      "name": "VueJS",
+      "percent": "63",
+      "type": "2",
+      "class": "",
+      "curso": false,
+      "cert": false,
+      "search": [
+        "frontend",
+        "web",
+        "javascript",
+        "vuejs",
         "frameworks"
       ],
       "desc": ""
