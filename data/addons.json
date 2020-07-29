@@ -20,8 +20,9 @@
   "addons": [
     {
       "name": "jtWhatsApp",
-      "desc": "",
+      "desc": "Qué mejor que tu WhatsApp web personalizado",
       "code": "wkAPXNd",
+      "logo": "3PMcMZj",
       "soft": [
         "Firefox",
         "WhatsApp Web"
@@ -42,7 +43,8 @@
     {
       "name": "VSCode DarkGreen",
       "desc": "Visual Studio Code en el magnifico estilo DarkGreen.",
-      "code": "su1zqDY",
+      "code": "ujt5ljm",
+      "logo": "fDH6i0p",
       "soft": [
         "Visual Studio Code"
       ],
