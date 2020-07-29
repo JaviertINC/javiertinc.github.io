@@ -9,6 +9,10 @@
       "icon": "fab fa-whatsapp"
     },
     {
+      "name": "Visual Studio Code",
+      "icon": "fa fa-code"
+    },
+    {
       "name": "DarkGreen",
       "icon": "fa fa-palette"
     }
@@ -16,6 +20,7 @@
   "addons": [
     {
       "name": "jtWhatsApp",
+      "desc": "",
       "code": "wkAPXNd",
       "soft": [
         "Firefox",
@@ -36,7 +41,8 @@
     },
     {
       "name": "VSCode DarkGreen",
-      "code": "oRKMzAo",
+      "desc": "Visual Studio Code en el magnifico estilo DarkGreen.",
+      "code": "su1zqDY",
       "soft": [
         "Visual Studio Code"
       ],
@@ -47,7 +53,7 @@
         "estilos"
       ],
       "type": "1",
-      "stat": "0",
+      "stat": "1",
       "urli": "vscode:extension/JaviertINC.vscode-darkgreen"
     }
   ]
