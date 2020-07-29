@@ -1,0 +1,54 @@
+{
+  "tags": [
+    {
+      "name": "Firefox",
+      "icon": "fab fa-firefox-browser"
+    },
+    {
+      "name": "WhatsApp Web",
+      "icon": "fab fa-whatsapp"
+    },
+    {
+      "name": "DarkGreen",
+      "icon": "fa fa-palette"
+    }
+  ],
+  "addons": [
+    {
+      "name": "jtWhatsApp",
+      "code": "wkAPXNd",
+      "soft": [
+        "Firefox",
+        "WhatsApp Web"
+      ],
+      "slug": "jtwhatsapp",
+      "date": "2020-07-28T00:00:00.000Z",
+      "tags": [
+        "darkgreen",
+        "autocorrector",
+        "privacy",
+        "themes",
+        "estilos"
+      ],
+      "type": "1",
+      "stat": "1",
+      "urli": "https://addons.mozilla.org/firefox/downloads/file/3615610/jtwhatsapp-0.0.1-fx.xpi"
+    },
+    {
+      "name": "VSCode DarkGreen",
+      "code": "oRKMzAo",
+      "soft": [
+        "Visual Studio Code"
+      ],
+      "slug": "vscode-darkgreen",
+      "date": "2020-07-28T00:00:00.000Z",
+      "tags": [
+        "themes",
+        "estilos"
+      ],
+      "type": "1",
+      "stat": "0",
+      "urli": "vscode:extension/JaviertINC.vscode-darkgreen"
+    }
+  ]
+}
