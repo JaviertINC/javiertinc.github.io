@@ -24,8 +24,8 @@
       "code": "wkAPXNd",
       "logo": "emBhRSe",
       "soft": [
-        "Firefox",
-        "WhatsApp Web"
+        "WhatsApp Web",
+        "Firefox"
       ],
       "slug": "jtwhatsapp",
       "date": "2020-07-28T00:00:00.000Z",
@@ -38,7 +38,9 @@
       ],
       "type": "1",
       "stat": "1",
-      "urli": "https://addons.mozilla.org/firefox/downloads/file/3615610/jtwhatsapp-0.0.1-fx.xpi"
+      "urli": "https://addons.mozilla.org/firefox/downloads/file/3615610/jtwhatsapp-0.0.1-fx.xpi",
+      "mktp_name": "Firefox Addons",
+      "mktp_url": "https://addons.mozilla.org/es/firefox/addon/jtwhatsapp/"
     },
     {
       "name": "VSCode DarkGreen",
@@ -56,7 +58,9 @@
       ],
       "type": "1",
       "stat": "1",
-      "urli": "vscode:extension/JaviertINC.vscode-darkgreen"
+      "urli": "vscode:extension/JaviertINC.vscode-darkgreen",
+      "mktp_name": "el MarketPlace",
+      "mktp_url": "https://marketplace.visualstudio.com/items?itemName=JaviertINC.vscode-darkgreen"
     }
   ]
 }
