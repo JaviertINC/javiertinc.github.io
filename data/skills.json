@@ -1,9 +1,9 @@
 {
-  "update": "2020-06-22T10:15:02.380Z",
+  "update": "2020-07-25T10:15:02.380Z",
   "lenguajes": [
     {
       "name": "HTML",
-      "percent": "90",
+      "percent": "98",
       "type": "1",
       "class": "",
       "curso": true,
@@ -19,7 +19,7 @@
     },
     {
       "name": "CSS",
-      "percent": "95",
+      "percent": "98",
       "type": "1",
       "class": "",
       "curso": true,
@@ -40,7 +40,7 @@
     },
     {
       "name": "Javascript",
-      "percent": "88",
+      "percent": "92",
       "type": "1",
       "class": "",
       "curso": false,
@@ -59,7 +59,7 @@
     },
     {
       "name": "PHP",
-      "percent": "75",
+      "percent": "85",
       "type": "1",
       "class": "",
       "curso": true,
@@ -76,7 +76,7 @@
     },
     {
       "name": "JQuery",
-      "percent": "75",
+      "percent": "94",
       "type": "1",
       "class": "",
       "curso": false,
@@ -94,7 +94,7 @@
     },
     {
       "name": "Bootstrap",
-      "percent": "88",
+      "percent": "97",
       "type": "1",
       "class": "",
       "curso": false,
@@ -114,7 +114,7 @@
     },
     {
       "name": "React",
-      "percent": "45",
+      "percent": "55",
       "type": "2",
       "class": "",
       "curso": false,
@@ -133,7 +133,7 @@
     },
     {
       "name": "Angular",
-      "percent": "40",
+      "percent": "58",
       "type": "2",
       "class": "",
       "curso": false,
@@ -169,7 +169,7 @@
     },
     {
       "name": "Python",
-      "percent": "74",
+      "percent": "77",
       "type": "1",
       "class": "",
       "curso": true,
@@ -187,7 +187,7 @@
     },
     {
       "name": "CakePHP",
-      "percent": "55",
+      "percent": "65",
       "type": "2",
       "class": "",
       "curso": false,
@@ -440,7 +440,7 @@
     },
     {
       "name": "MarkDown",
-      "percent": "98",
+      "percent": "100",
       "type": "1",
       "class": "",
       "curso": true,
@@ -458,7 +458,7 @@
     "dev": [
       {
         "name": "VisualCode Studio",
-        "percent": "80",
+        "percent": "85",
         "type": "1",
         "class": "",
         "curso": false,
@@ -476,7 +476,7 @@
       },
       {
         "name": "GitHub",
-        "percent": "75",
+        "percent": "87",
         "type": "1",
         "class": "",
         "curso": true,
@@ -492,7 +492,7 @@
       },
       {
         "name": "GIT",
-        "percent": "65",
+        "percent": "80",
         "type": "2",
         "class": "",
         "curso": true,
@@ -508,7 +508,7 @@
       },
       {
         "name": "BitBucket",
-        "percent": "55",
+        "percent": "65",
         "type": "2",
         "class": "",
         "curso": false,
@@ -542,7 +542,7 @@
       },
       {
         "name": "WordPress",
-        "percent": "68",
+        "percent": "78",
         "type": "1",
         "class": "",
         "curso": false,
@@ -604,7 +604,7 @@
       },
       {
         "name": "Userscripts",
-        "percent": "95",
+        "percent": "98",
         "type": "1",
         "class": "",
         "curso": false,
@@ -656,7 +656,7 @@
       },
       {
         "name": "Notepad++",
-        "percent": "70",
+        "percent": "83",
         "type": "1",
         "class": "",
         "curso": false,
