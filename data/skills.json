@@ -204,6 +204,23 @@
       "desc": ""
     },
     {
+      "name": "Laravel",
+      "percent": "55",
+      "type": "2",
+      "class": "",
+      "curso": true,
+      "cert": false,
+      "search": [
+        "backend",
+        "web",
+        "php",
+        "frameworks",
+        "laravel",
+        "server"
+      ],
+      "desc": ""
+    },
+    {
       "name": "GO",
       "percent": "15",
       "type": "3",
@@ -882,6 +899,24 @@
         "desc": ""
       },
       {
+        "name": "Adobe XD",
+        "percent": "55",
+        "type": "2",
+        "class": "",
+        "curso": false,
+        "cert": false,
+        "search": [
+          "adobe xd",
+          "editor",
+          "imagenes",
+          "fotos",
+          "fotografia",
+          "edicion",
+          "adobe suite"
+        ],
+        "desc": ""
+      },
+      {
         "name": "FontAwesome",
         "percent": "88",
         "type": "1",
@@ -1068,6 +1103,25 @@
         "search": [
           "photoshop",
           "ps",
+          "editor",
+          "imagenes",
+          "fotos",
+          "fotografia",
+          "edicion",
+          "adobe suite"
+        ],
+        "desc": ""
+      },
+      {
+        "name": "Ilustrator",
+        "percent": "55",
+        "type": "2",
+        "class": "",
+        "curso": true,
+        "cert": false,
+        "search": [
+          "ilustrator",
+          "ai",
           "editor",
           "imagenes",
           "fotos",
