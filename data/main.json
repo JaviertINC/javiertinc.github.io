@@ -114,6 +114,14 @@
       "target": "_top"
     },
     {
+      "id": "12",
+      "status": "0",
+      "name": "Teextus",
+      "url": "/teextus",
+      "css": "{color: #fff!important; background-color: #a2e3a8!important; }",
+      "target": "_top"
+    },
+    {
       "id": "5",
       "status": "0",
       "name": "@Mexcitas_cl",
