@@ -84,9 +84,9 @@
     {
       "id": "1",
       "status": "0",
-      "name": "Afyrus",
+      "name": "AFYRUS",
       "url": "/afyrus",
-      "css": "{ color: #000!important; background-color: #fff!important; }",
+      "css": "{ color: #4c4c4c!important; background-color: #fff!important; }",
       "target": "_top"
     },
     {
