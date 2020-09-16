@@ -1,5 +1,5 @@
 {
-  "update": "2020-07-25T10:15:02.380Z",
+  "update": "2020-09-10T10:12:15.200Z",
   "lenguajes": [
     {
       "name": "HTML",
@@ -114,7 +114,7 @@
     },
     {
       "name": "React",
-      "percent": "55",
+      "percent": "45",
       "type": "2",
       "class": "",
       "curso": false,
@@ -133,7 +133,7 @@
     },
     {
       "name": "Angular",
-      "percent": "58",
+      "percent": "48",
       "type": "2",
       "class": "",
       "curso": false,
@@ -154,7 +154,7 @@
     {
       "name": "VueJS",
       "percent": "63",
-      "type": "2",
+      "type": "1",
       "class": "",
       "curso": false,
       "cert": false,
