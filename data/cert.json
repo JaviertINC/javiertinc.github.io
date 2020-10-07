@@ -1,28 +1,18 @@
 {
   "cert": [
     {
-      "name": "Sketch",
-      "code": "MD5bxqZ",
+      "name": "SQL y MySQL",
+      "code": "7fGmbw6",
       "emin": "Platzi",
       "emiu": "https://platzi.com/r/JaviertINC/",
-      "date": "2020-07-19T00:00:00.000Z",
-      "file": "0",
-      "type": "1",
-      "stat": "1"
+      "date": "2020-10-07T00:00:00.000Z",
+      "file": "1gKuQ5vHixhqMvsPfpcu8p4dFgiY4-M-I",
+      "type": "3",
+      "stat": "3"
     },
     {
       "name": "Email Marketing",
       "code": "oRKMzAo",
-      "emin": "Platzi",
-      "emiu": "https://platzi.com/r/JaviertINC/",
-      "date": "2020-06-11T00:00:00.000Z",
-      "file": "0",
-      "type": "1",
-      "stat": "1"
-    },
-    {
-      "name": "Gestión de Proyectos con PMBOK",
-      "code": "jpd6kyS",
       "emin": "Platzi",
       "emiu": "https://platzi.com/r/JaviertINC/",
       "date": "2020-06-11T00:00:00.000Z",
