@@ -21,40 +21,11 @@
       "icon": "fab fa-js"
     },
     {
-      "name": "CSS3",
-      "icon": "fab fa-css3-alt"
-    },
-    {
       "name": "jtAPI",
       "icon": "fa fa-cubes"
     }
   ],
   "addons": [
-    {
-      "name": "jtStyler",
-      "desc": "Una librería de estilos CSS en complemento a Bootstrap, Semantic UI, Materialize, entre otros.",
-      "code": "0nLfKm",
-      "logo": "GjW0uK",
-      "soft": [
-        "CSS3",
-        "jtAPI"
-      ],
-      "slug": "jtstyler",
-      "iapi": true,
-      "date": "2020-10-21T00:00:00.000Z",
-      "tags": [
-        "jtstyler",
-        "jtapi",
-        "css3",
-        "library",
-        "libreria"
-      ],
-      "type": "1",
-      "stat": "0",
-      "urli": "",
-      "mktp_name": "",
-      "mktp_url": ""
-    },
     {
       "name": "jtDown",
       "desc": "Una versión simple y adaptada de MarkDown",
