@@ -15,19 +15,84 @@
     {
       "name": "DarkGreen",
       "icon": "fa fa-palette"
+    },
+    {
+      "name": "JavaScript",
+      "icon": "fab fa-js"
+    },
+    {
+      "name": "CSS3",
+      "icon": "fab fa-css3-alt"
+    },
+    {
+      "name": "jtAPI",
+      "icon": "fa fa-cubes"
     }
   ],
   "addons": [
     {
+      "name": "jtStyler",
+      "desc": "Una librería de estilos CSS en complemento a Bootstrap, Semantic UI, Materialize, entre otros.",
+      "code": "0nLfKm",
+      "logo": "GjW0uK",
+      "soft": [
+        "CSS3",
+        "jtAPI"
+      ],
+      "slug": "jtstyler",
+      "iapi": true,
+      "date": "2020-10-21T00:00:00.000Z",
+      "tags": [
+        "jtstyler",
+        "jtapi",
+        "css3",
+        "library",
+        "libreria"
+      ],
+      "type": "1",
+      "stat": "1",
+      "urli": "",
+      "mktp_name": "",
+      "mktp_url": ""
+    },
+    {
+      "name": "jtDown",
+      "desc": "Una versión simple y adaptada de MarkDown",
+      "code": "AeNT62",
+      "logo": "Vrv52o",
+      "soft": [
+        "Javascript",
+        "jtAPI"
+      ],
+      "slug": "jtdown",
+      "iapi": true,
+      "date": "2020-08-19T00:00:00.000Z",
+      "tags": [
+        "jtdown",
+        "jtapi",
+        "javascript",
+        "js",
+        "teextus",
+        "library",
+        "libreria"
+      ],
+      "type": "1",
+      "stat": "1",
+      "urli": "",
+      "mktp_name": "",
+      "mktp_url": ""
+    },
+    {
       "name": "jtWhatsApp",
       "desc": "Qué mejor que tu WhatsApp web personalizado",
-      "code": "wkAPXNd",
-      "logo": "emBhRSe",
+      "code": "09zrNY",
+      "logo": "L2feSW",
       "soft": [
         "WhatsApp Web",
         "Firefox"
       ],
       "slug": "jtwhatsapp",
+      "iapi": false,
       "date": "2020-07-28T00:00:00.000Z",
       "tags": [
         "darkgreen",
@@ -45,12 +110,13 @@
     {
       "name": "VSCode DarkGreen",
       "desc": "Visual Studio Code en el magnifico estilo DarkGreen.",
-      "code": "ujt5ljm",
-      "logo": "6pfS2J6",
+      "code": "GSYyMP",
+      "logo": "vkJ3L2",
       "soft": [
         "Visual Studio Code"
       ],
       "slug": "vscode-darkgreen",
+      "iapi": false,
       "date": "2020-07-28T00:00:00.000Z",
       "tags": [
         "themes",
