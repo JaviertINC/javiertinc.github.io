@@ -98,14 +98,6 @@
       "target": "_blank"
     },
     {
-      "id": "3",
-      "status": "1",
-      "name": "Nuxum Music",
-      "url": "https://www.youtube.com/NuxumMusic",
-      "css": "{color: #4caf50!important; background-color: #4e4e4e!important; background: url(https://javiertinc.cl/img/topbar/yeslydevs.jpg) no-repeat center!important; background-size: 100% auto!important; }",
-      "target": "_blank"
-    },
-    {
       "id": "4",
       "status": "1",
       "name": "Captys",
@@ -118,15 +110,15 @@
       "status": "1",
       "name": "Teextus",
       "url": "/teextus",
-      "css": "{color: #fff!important; background-color: #a2e3a8!important; }",
+      "css": "{color: #fff!important; background-color: #95ff5c!important; }",
       "target": "_top"
     },
     {
-      "id": "5",
-      "status": "0",
-      "name": "@Mexcitas_cl",
-      "url": "https://www.instagram.com/mexcitas_cl/",
-      "css": "{ color: #fff!important; text-shadow: -1px 0 #ec0bec, 0 1px #ec0bec, 1px 0 #ec0bec, 0 -1px #ec0bec!important; background: url(https://javiertinc.cl/img/topbar/mexcitas.jpg) no-repeat center!important; background-size: cover!important; }",
+      "id": "3",
+      "status": "1",
+      "name": "Nuxum Music",
+      "url": "https://www.youtube.com/NuxumMusic",
+      "css": "{color: #4caf50!important; background-color: #4e4e4e!important; background: url(https://javiertinc.cl/img/topbar/yeslydevs.jpg) no-repeat center!important; background-size: 100% auto!important; }",
       "target": "_blank"
     },
     {
@@ -135,6 +127,14 @@
       "name": "@Mencantas_cl",
       "url": "/mencantas_cl",
       "css": "{ color: #fff!important; text-shadow: 2px 0 #f0f, -2px 0 #0ff!important; background-color: #000!important; }",
+      "target": "_blank"
+    },
+    {
+      "id": "5",
+      "status": "0",
+      "name": "@Mexcitas_cl",
+      "url": "https://www.instagram.com/mexcitas_cl/",
+      "css": "{ color: #fff!important; text-shadow: -1px 0 #ec0bec, 0 1px #ec0bec, 1px 0 #ec0bec, 0 -1px #ec0bec!important; background: url(https://javiertinc.cl/img/topbar/mexcitas.jpg) no-repeat center!important; background-size: cover!important; }",
       "target": "_blank"
     },
     {
