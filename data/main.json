@@ -114,6 +114,15 @@
       "target": "_top"
     },
     {
+      "id": "13",
+      "status": "0",
+      "name": "AFYRUS <span>GAMING</span>",
+      "url": "/afyrus/gaming",
+      "css": "{ color: #fff!important; background-color: #4c4c4c!important; }",
+      "css2": "{color: #4caf50!important; }",
+      "target": "_top"
+    },
+    {
       "id": "3",
       "status": "1",
       "name": "Nuxum Music",
