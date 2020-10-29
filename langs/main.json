@@ -150,7 +150,7 @@
         "en": "Hello World"
       },
       {
-        "es": "Mi nombre es {{{firstname}}} {{{lastname}}}, también conocido como [b_green]{{{nick}}}[/b], y soy Programador Informático. He desarrollado este sitio web para compartir mis creaciones y enseñar lo que me gusta hacer.",
+        "es": "Mi nombre es {{{firstname}}} {{{lastname}}}, también conocido como [b_green]{{{nick}}}[/b], y soy Programador Informático especializado en el desarrollo Web FullStack. He desarrollado este sitio web para compartir mis creaciones y enseñar lo que me gusta hacer.",
         "en": "My name is {{{firstname}}} {{{lastname}}}, also known as [b_green]{{{nick}}}[/b], and I am a Computer Programmer. I have developed this website to share my creations and show what I like to do."
       },
       {
