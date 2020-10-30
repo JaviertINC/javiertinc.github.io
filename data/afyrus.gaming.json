@@ -13,6 +13,11 @@
         "nick": "AFYRUS_GAMING",
         "faicon": "fab fa-twitch",
         "url": "https://www.twitch.tv/afyrus_gaming"
+      },
+      "youtube": {
+        "nick": "AFYRUS GAMING",
+        "faicon": "fab fa-youtube",
+        "url": "https://www.youtube.com/channel/UCD-PBTYr8A2rEzl_XlhHDHw"
       }
     }
   }
