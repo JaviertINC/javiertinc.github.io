@@ -1,0 +1,19 @@
+{
+  "data": {
+    "name": "AFYRUS GAMING",
+    "url": "https://javiertinc.cl/afyrus/gaming",
+    "socials": {
+      "blog": "https://javiertinc.cl/afyrus/gaming/blog",
+      "instagram": {
+        "nick": "AFYRUS.GAMING",
+        "faicon": "fab fa-instagram",
+        "url": "https://www.instagram.com/afyrus.gaming"
+      },
+      "twitch": {
+        "nick": "AFYRUS_GAMING",
+        "faicon": "fab fa-twitch",
+        "url": "https://www.twitch.tv/afyrus_gaming"
+      }
+    }
+  }
+}
