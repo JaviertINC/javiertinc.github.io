@@ -1,5 +1,5 @@
 {
-  "update": "2020-09-10T10:12:15.200Z",
+  "update": "2020-11-05T06:22:55.200Z",
   "lenguajes": [
     {
       "name": "HTML",
@@ -114,10 +114,10 @@
     },
     {
       "name": "React",
-      "percent": "45",
+      "percent": "65",
       "type": "2",
       "class": "",
-      "curso": false,
+      "curso": true,
       "cert": false,
       "desc": "",
       "search": [
@@ -133,7 +133,7 @@
     },
     {
       "name": "Angular",
-      "percent": "48",
+      "percent": "38",
       "type": "2",
       "class": "",
       "curso": false,
@@ -298,18 +298,18 @@
       "desc": ""
     },
     {
-      "name": "MySQL",
+      "name": "SQL",
       "percent": "50",
       "type": "2",
       "class": "",
       "curso": true,
-      "cert": false,
+      "cert": true,
       "search": [
         "backend",
         "database",
         "php",
-        "sql",
-        "mysql"
+        "mysql",
+        "sql server"
       ],
       "desc": ""
     },
@@ -469,6 +469,38 @@
         "html"
       ],
       "desc": ""
+    },
+    {
+      "name": "Moment.js",
+      "percent": "75",
+      "type": "1",
+      "class": "",
+      "curso": false,
+      "cert": false,
+      "search": [
+        "js",
+        "javascript",
+        "moment",
+        "time",
+        "frontend"
+      ],
+      "desc": ""
+    },
+    {
+      "name": "Chart.js",
+      "percent": "65",
+      "type": "1",
+      "class": "",
+      "curso": false,
+      "cert": false,
+      "search": [
+        "js",
+        "javascript",
+        "chart",
+        "graficos",
+        "frontend"
+      ],
+      "desc": ""
     }
   ],
   "software": {
@@ -540,6 +572,19 @@
         "desc": ""
       },
       {
+        "name": "Docker",
+        "percent": "35",
+        "type": "2",
+        "class": "",
+        "curso": true,
+        "cert": false,
+        "search": [
+          "docker",
+          "contenedores"
+        ],
+        "desc": ""
+      },
+      {
         "name": "NodeJS",
         "percent": "50",
         "type": "2",
@@ -554,6 +599,58 @@
           "nodejs",
           "yarn",
           "npm"
+        ],
+        "desc": ""
+      },
+      {
+        "name": "NPM",
+        "percent": "65",
+        "type": "2",
+        "class": "",
+        "curso": false,
+        "cert": false,
+        "search": [
+          "backend",
+          "frontend",
+          "web",
+          "javascript",
+          "nodejs",
+          "yarn",
+          "npm"
+        ],
+        "desc": ""
+      },
+      {
+        "name": "MySQL",
+        "percent": "65",
+        "type": "2",
+        "class": "",
+        "curso": true,
+        "cert": true,
+        "search": [
+          "backend",
+          "database",
+          "db",
+          "sql",
+          "mysql",
+          "sql server"
+        ],
+        "desc": ""
+      },
+      {
+        "name": "SQL Server",
+        "percent": "35",
+        "type": "2",
+        "class": "",
+        "curso": false,
+        "cert": false,
+        "search": [
+          "backend",
+          "database",
+          "db",
+          "sql",
+          "mysql",
+          "sql server"
         ],
         "desc": ""
       },
