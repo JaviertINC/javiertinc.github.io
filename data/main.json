@@ -101,9 +101,9 @@
       "id": "4",
       "status": "1",
       "name": "Captys",
-      "url": "/captys",
+      "url": "https://captys.afyrus.cl",
       "css": "{color: #fff!important; background-color: #88c4ec!important; /*text-shadow: -1px 0 #fff, 0 1px #fff, 1px 0 #fff, 0 -1px #fff!important;*/ }",
-      "target": "_top"
+      "target": "_blank"
     },
     {
       "id": "12",
