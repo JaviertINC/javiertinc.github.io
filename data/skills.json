@@ -1,1561 +1,1561 @@
 {
-  "update": "2021-12-03T20:00:00.200Z",
-  "lenguajes": [
-    {
-      "name": "HTML",
-      "percent": "99",
-      "type": "1",
-      "class": "",
-      "curso": true,
-      "cert": true,
-      "search": [
-        "frontend",
-        "web",
-        "html",
-        "html4",
-        "html 4",
-        "html5",
-        "html 5"
-      ],
-      "desc": ""
-    },
-    {
-      "name": "CSS",
-      "percent": "98",
-      "type": "1",
-      "class": "",
-      "curso": true,
-      "cert": true,
-      "search": [
-        "frontend",
-        "web",
-        "css2",
-        "css3",
-        "estilos",
-        "hoja de estilos",
-        "style",
-        "userscripts",
-        "ui",
-        "ux"
-      ],
-      "desc": "Llevo más de 7 años desarrollando con esta tecnología, a pesar de que me faltan algunas cosas por aprender, siento que puedo hacer y deshacer cualquier diseño con este lenguaje"
-    },
-    {
-      "name": "Javascript",
-      "percent": "95",
-      "type": "1",
-      "class": "",
-      "curso": true,
-      "cert": false,
-      "search": [
-        "frontend",
-        "backend",
-        "web",
-        "js",
-        "javascript",
-        "scripts",
-        "userscripts",
-        "ajax"
-      ],
-      "desc": "Me gusta mucho este lenguaje por su gran robustez"
-    },
-    {
-      "name": "PHP",
-      "percent": "85",
-      "type": "1",
-      "class": "",
-      "curso": true,
-      "cert": true,
-      "search": [
-        "backend",
-        "web",
-        "server",
-        "database",
-        "api",
-        "php"
-      ],
-      "desc": "He aprendido a optimizar aplicaciones Web utilizando este lenguaje y en Wordpress"
-    },
-    {
-      "name": "jQuery",
-      "percent": "94",
-      "type": "1",
-      "class": "",
-      "curso": false,
-      "cert": false,
-      "search": [
-        "frontend",
-        "web",
-        "javascript",
-        "js",
-        "jquery",
-        "ajax",
-        "frameworks"
-      ],
-      "desc": "Aún que me falta mucho por aprender, puedo lograr grandes funcionalidades con esta librería"
-    },
-    {
-      "name": "Bootstrap",
-      "percent": "100",
-      "type": "1",
-      "class": "",
-      "curso": false,
-      "cert": false,
-      "search": [
-        "frontend",
-        "web",
-        "css",
-        "css3",
-        "bootstrap",
-        "estilos",
-        "frameworks",
-        "ui",
-        "ux"
-      ],
-      "desc": "He trabajado tanto con esta librería que me manejo muy bien con ella"
-    },
-    {
-      "name": "ReactJS",
-      "percent": "75",
-      "type": "1",
-      "class": "",
-      "curso": true,
-      "cert": false,
-      "desc": "",
-      "search": [
-        "frontend",
-        "web",
-        "js",
-        "javascript",
-        "react",
-        "reactjs",
-        "react native",
-        "frameworks"
-      ]
-    },
-    {
-      "name": "Angular",
-      "percent": "85",
-      "type": "1",
-      "class": "",
-      "curso": true,
-      "cert": false,
-      "search": [
-        "frontend",
-        "web",
-        "js",
-        "javascript",
-        "angular",
-        "angularjs",
-        "angular7",
-        "angular9",
-        "angular12",
-        "ng",
-        "frameworks"
-      ],
-      "desc": ""
-    },
-    {
-      "name": "Angular Material",
-      "percent": "55",
-      "type": "1",
-      "class": "",
-      "curso": false,
-      "cert": false,
-      "search": [
-        "frontend",
-        "web",
-        "js",
-        "javascript",
-        "angular",
-        "angularjs",
-        "angular7",
-        "angular9",
-        "angular12",
-        "ng",
-        "frameworks"
-      ],
-      "desc": ""
-    },
-    {
-      "name": "VueJS",
-      "percent": "25",
-      "type": "2",
-      "class": "",
-      "curso": false,
-      "cert": false,
-      "search": [
-        "frontend",
-        "web",
-        "javascript",
-        "vuejs",
-        "frameworks"
-      ],
-      "desc": ""
-    },
-    {
-      "name": "Python",
-      "percent": "40",
-      "type": "2",
-      "class": "",
-      "curso": true,
-      "cert": false,
-      "search": [
-        "py",
-        "python",
-        "machine learning",
-        "bots",
-        "pip",
-        "api"
-      ],
-      "desc": "He creado algunos Bots de automatización de actividades, para optimizar mi tiempo y productividad"
-    },
-    {
-      "name": "CakePHP",
-      "percent": "50",
-      "type": "2",
-      "class": "",
-      "curso": false,
-      "cert": false,
-      "search": [
-        "backend",
-        "web",
-        "php",
-        "framework",
-        "frameworks",
-        "cakephp",
-        "server"
-      ],
-      "desc": ""
-    },
-    {
-      "name": "Laravel",
-      "percent": "50",
-      "type": "2",
-      "class": "",
-      "curso": true,
-      "cert": false,
-      "search": [
-        "backend",
-        "web",
-        "php",
-        "frameworks",
-        "laravel",
-        "server"
-      ],
-      "desc": ""
-    },
-    {
-      "name": "JAVA",
-      "percent": "65",
-      "type": "1",
-      "class": "",
-      "curso": true,
-      "cert": false,
-      "search": [
-        "backend",
-        "app",
-        "aplication",
-        "android",
-        "java",
-        "springboot",
-		"meaven",
-        "api"
-      ],
-      "desc": ""
-    },
-    {
-      "name": "SQL",
-      "percent": "80",
-      "type": "1",
-      "class": "",
-      "curso": true,
-      "cert": true,
-      "search": [
-        "backend",
-        "database",
-        "php",
-        "mysql",
-        "sql server"
-      ],
-      "desc": ""
-    },
-    {
-      "name": "Sybase",
-      "percent": "75",
-      "type": "1",
-      "class": "",
-      "curso": false,
-      "cert": false,
-      "search": [
-        "backend",
-        "database",
-        "php",
-        "mysql",
-        "sql server"
-      ],
-      "desc": ""
-    },
-    {
-      "name": "C++",
-      "percent": "30",
-      "type": "3",
-      "class": "",
-      "curso": false,
-      "cert": false,
-      "search": [
-        "applicacion",
-        "app",
-        "c",
-        "c++"
-      ],
-      "desc": ""
-    },
-    {
-      "name": "AutoHotKey",
-      "percent": "45",
-      "type": "2",
-      "class": "",
-      "curso": false,
-      "cert": false,
-      "search": [
-        "applicacion",
-        "app",
-        "autohotkey",
-        "ahk",
-        "script",
-        "automatizacion",
-        "automatico",
-        "bots"
-      ],
-      "desc": "He creado algunos Scripts de automatización y de utilidad para uso propio"
-    },
-    {
-      "name": "JSON",
-      "percent": "100",
-      "type": "1",
-      "class": "",
-      "curso": false,
-      "cert": false,
-      "search": [
-        "api",
-        "javascript",
-        "java",
-        "php",
-        "json",
-        "jquery",
-        "js",
-        "python",
-      ],
-      "desc": ""
-    },
-    {
-      "name": "MarkDown",
-      "percent": "100",
-      "type": "1",
-      "class": "",
-      "curso": true,
-      "cert": false,
-      "search": [
-        "markdown",
-        "md",
-        "preprocesadores",
-        "html"
-      ],
-      "desc": ""
-    },
-    {
-      "name": "Sass",
-      "percent": "80",
-      "type": "1",
-      "class": "",
-      "curso": false,
-      "cert": false,
-      "search": [
-        "frontend",
-        "web",
-        "sass",
-        "preprocesadores",
-        "css2",
-        "css3",
-        "estilos",
-        "hoja de estilos",
-        "style",
-        "userscripts",
-        "ui",
-        "ux",
-        "nodejs",
-		"less"
-      ],
-      "desc": ""
-    },
-    {
-      "name": "SweetAlert",
-      "percent": "90",
-      "type": "1",
-      "class": "",
-      "curso": false,
-      "cert": false,
-      "search": [
-        "sweetalert2",
-        "swal2",
-        "javascritp",
-        "js",
-        "css",
-        "ui",
-        "ux",
-		"frontend"
-      ],
-      "desc": ""
-    },
-    {
-      "name": "Animate.css",
-      "percent": "75",
-      "type": "2",
-      "class": "",
-      "curso": false,
-      "cert": false,
-      "search": [
-        "animate.css",
-        "animacion",
-        "css",
-        "ui",
-        "ux",
-		"frontend"
-      ],
-      "desc": ""
-    },
-    {
-      "name": "Moment.js",
-      "percent": "75",
-      "type": "1",
-      "class": "",
-      "curso": false,
-      "cert": false,
-      "search": [
-        "js",
-        "javascript",
-        "moment",
-        "time",
-        "frontend"
-      ],
-      "desc": ""
-    },
-    {
-      "name": "Chart.js",
-      "percent": "65",
-      "type": "1",
-      "class": "",
-      "curso": false,
-      "cert": false,
-      "search": [
-        "js",
-        "javascript",
-        "chart",
-        "graficos",
-        "frontend"
-      ],
-      "desc": ""
-    }
-  ],
-  "software": {
-    "dev": [
-      {
-        "name": "VisualCode Studio",
-        "percent": "95",
-        "type": "1",
-        "class": "",
-        "curso": false,
-        "cert": false,
-        "search": [
-          "vscode",
-          "code",
-          "visual studio code",
-          "visual",
-          "studio",
-          "editor",
-          "ide"
-        ],
-        "desc": "He creado mis propias modificaciones para el programa"
-      },
-      {
-        "name": "GIT",
-        "percent": "85",
-        "type": "1",
-        "class": "",
-        "curso": true,
-        "cert": true,
-        "search": [
-          "gh",
-          "github",
-          "git",
-          "control de versiones",
-          "gitlab"
-        ],
-        "desc": ""
-      },
-      {
-        "name": "GitHub",
-        "percent": "80",
-        "type": "1",
-        "class": "",
-        "curso": true,
-        "cert": true,
-        "search": [
-          "gh",
-          "github",
-          "git",
-          "versiones",
-          "control de versiones",
-          "gitlab"
-        ],
-        "desc": "Hago uso frecuente de esta plataforma"
-      },
-      {
-        "name": "GitLab",
-        "percent": "80",
-        "type": "1",
-        "class": "",
-        "curso": false,
-        "cert": false,
-        "search": [
-          "gh",
-          "github",
-          "git",
-          "versiones",
-          "control de versiones",
-          "gitlab"
-        ],
-        "desc": ""
-      },
-      {
-        "name": "BitBucket",
-        "percent": "65",
-        "type": "2",
-        "class": "",
-        "curso": false,
-        "cert": false,
-        "search": [
-          "bitbucket",
-          "github",
-          "gitlab",
-          "git",
-          "control de versiones"
-        ],
-        "desc": ""
-      },
-      {
-        "name": "Docker",
-        "percent": "35",
-        "type": "3",
-        "class": "",
-        "curso": true,
-        "cert": false,
-        "search": [
-          "docker",
-          "contenedores"
-        ],
-        "desc": ""
-      },
-      {
-        "name": "NodeJS",
-        "percent": "70",
-        "type": "1",
-        "class": "",
-        "curso": false,
-        "cert": false,
-        "search": [
-          "backend",
-          "frontend",
-          "web",
-          "javascript",
-          "nodejs",
-          "yarn",
-          "npm"
-        ],
-        "desc": ""
-      },
-      {
-        "name": "NPM",
-        "percent": "80",
-        "type": "1",
-        "class": "",
-        "curso": false,
-        "cert": false,
-        "search": [
-          "backend",
-          "frontend",
-          "web",
-          "javascript",
-          "nodejs",
-          "yarn",
-          "npm"
-        ],
-        "desc": ""
-      },
-      {
-        "name": "MySQL",
-        "percent": "95",
-        "type": "1",
-        "class": "",
-        "curso": true,
-        "cert": true,
-        "search": [
-          "backend",
-          "database",
-          "db",
-          "sql",
-          "mysql",
-          "sql server",
-		  "dbartisan"
-        ],
-        "desc": ""
-      },
-      {
-        "name": "Embarcadero DBArtisan",
-        "percent": "70",
-        "type": "1",
-        "class": "",
-        "curso": false,
-        "cert": false,
-        "search": [
-          "backend",
-          "database",
-          "db",
-          "sql",
-          "mysql",
-          "sql server",
-		  "dbartisan"
-        ],
-        "desc": ""
-      },
-      {
-        "name": "SQL Server",
-        "percent": "35",
-        "type": "3",
-        "class": "",
-        "curso": false,
-        "cert": false,
-        "search": [
-          "backend",
-          "database",
-          "db",
-          "sql",
-          "mysql",
-          "sql server",
-		  "dbartisan"
-        ],
-        "desc": ""
-      },
-      {
-        "name": "WordPress",
-        "percent": "80",
-        "type": "2",
-        "class": "",
-        "curso": false,
-        "cert": false,
-        "search": [
-          "cms",
-          "wordpress",
-          "web",
-          "php",
-          "html",
-          "css",
-          "plugins",
-          "temas",
-          "frameworks",
-          "web",
-          "frontend",
-          "backend",
-		  "wp"
-        ],
-        "desc": ""
-      },
-      {
-        "name": "Userscripts",
-        "percent": "98",
-        "type": "1",
-        "class": "",
-        "curso": false,
-        "cert": false,
-        "search": [
-          "userscripts",
-          "frontend",
-          "javascript",
-          "js",
-          "jquery",
-          "tampermonkey",
-          "greasemonkey",
-          "darkgreen",
-          "css"
-        ],
-        "desc": "Hago uso frecuente de este Addon para modificar las páginas web que utilizo frecuentemente, ya sea para funcionalidad o para personalizar el estilo"
-      },
-      {
-        "name": "FileZilla",
-        "percent": "50",
-        "type": "2",
-        "class": "",
-        "curso": false,
-        "cert": false,
-        "search": [
-          "filezilla",
-          "ftp",
-          "server",
-          "archivos"
-        ],
-        "desc": ""
-      },
-      {
-        "name": "Eclipse",
-        "percent": "38",
-        "type": "3",
-        "class": "",
-        "curso": false,
-        "cert": false,
-        "search": [
-          "ide",
-          "desarrollo",
-          "java",
-          "code",
-          "editor",
-		  "eclipse",
-		  "springboot",
-		  "maven",
-		  "backend"
-        ],
-        "desc": ""
-      },
-      {
-        "name": "SpringBoot",
-        "percent": "38",
-        "type": "3",
-        "class": "",
-        "curso": false,
-        "cert": false,
-        "search": [
-          "ide",
-          "desarrollo",
-          "java",
-          "code",
-          "editor",
-		  "eclipse",
-		  "springboot",
-		  "maven",
-		  "backend"
-        ],
-        "desc": ""
-      },
-      {
-        "name": "NetBeans",
-        "percent": "38",
-        "type": "3",
-        "class": "",
-        "curso": false,
-        "cert": false,
-        "search": [
-          "ide",
-          "desarrollo",
-          "java",
-          "code",
-          "editor",
-		  "backend"
-        ],
-        "desc": ""
-      },
-      {
-        "name": "DagTools",
-        "percent": "40",
-        "type": "1",
-        "class": "",
-        "curso": false,
-        "cert": false,
-        "search": [
-          "ide",
-          "desarrollo",
-          "visualbasic4",
-          "code",
-          "editor",
-		  "backend"
-        ],
-        "desc": ""
-      },
-      {
-        "name": "Notepad++",
-        "percent": "83",
-        "type": "1",
-        "class": "",
-        "curso": false,
-        "cert": false,
-        "search": [
-          "ide",
-          "desarrollo",
-          "text",
-          "code",
-          "editor"
-        ],
-        "desc": ""
-      },
-      {
-        "name": "cPanel",
-        "percent": "95",
-        "type": "1",
-        "class": "",
-        "curso": false,
-        "cert": false,
-        "search": [
-          "cpanel",
-          "panel de control",
-          "web",
-          "frontend",
-          "backend",
-          "whm"
-        ],
-        "desc": ""
-      },
-      {
-        "name": "WHM",
-        "percent": "80",
-        "type": "3",
-        "class": "",
-        "curso": false,
-        "cert": false,
-        "search": [
-          "cpanel",
-          "panel de control",
-          "web",
-          "frontend",
-          "backend",
-          "whm"
-        ],
-        "desc": ""
-      },
-      {
-        "name": "reCaptcha",
-        "percent": "70",
-        "type": "3",
-        "class": "",
-        "curso": false,
-        "cert": false,
-        "search": [
-          "google",
-          "captcha",
-          "recaptcha",
-          "jtcaptcha",
-          "js",
-          "javascript",
-          "php",
-          "reactjs",
-          "hcaptcha"
-        ],
-        "desc": ""
-      },
-      {
-        "name": "hCaptcha",
-        "percent": "90",
-        "type": "1",
-        "class": "",
-        "curso": false,
-        "cert": false,
-        "search": [
-          "hcaptcha",
-          "recaptcha",
-          "jtcaptcha",
-          "js",
-          "javascript",
-          "php",
-          "reactjs",
-          "nodejs",
-          "cloudflare"
-        ],
-        "desc": ""
-      },
-      {
-        "name": "SEO",
-        "percent": "75",
-        "type": "1",
-        "class": "",
-        "curso": false,
-        "cert": false,
-        "search": [
-          "frontend",
-          "web",
-          "html",
-          "meta",
-          "tags",
-          "seo",
-          "search",
-          "buscador",
-          "engine",
-          "optimizacion"
-        ],
-        "desc": "Investigo mucho al respecto"
-      },
-      {
-        "name": "Ajax",
-        "percent": "60",
-        "type": "2",
-        "class": "",
-        "curso": false,
-        "cert": false,
-        "search": [
-          "frontend",
-          "web",
-          "javascritp",
-          "js",
-          "jquery",
-          "userscripts",
-          "ajax",
-          "xmlhttprequest"
-        ],
-        "desc": ""
-      },
-      {
-        "name": "Trello",
-        "percent": "70",
-        "type": "1",
-        "class": "",
-        "curso": false,
-        "cert": false,
-        "search": [
-          "trello",
-          "time",
-          "tareas",
-          "scrum agile"
-        ],
-        "desc": "Hago uso frecuente de esta plataforma para administrar de forma optima mis actividades y las de mis proyectos"
-      },
-      {
-        "name": "Sketch",
-        "percent": "60",
-        "type": "2",
-        "class": "",
-        "curso": true,
-        "cert": false,
-        "search": [
-          "sketch",
-          "animaciones",
-          "animations",
-          "css"
-        ],
-        "desc": ""
-      },
-      {
-        "name": "TimeDoctor Client",
-        "percent": "80",
-        "type": "3",
-        "class": "",
-        "curso": false,
-        "cert": false,
-        "search": [
-          "trello",
-          "time",
-          "tareas",
-          "timedoctor",
-          "time doctor",
-          "control de asistencia"
-        ],
-        "desc": ""
-      },
-      {
-        "name": "BioSign",
-        "percent": "90",
-        "type": "1",
-        "class": "",
-        "curso": false,
-        "cert": false,
-        "search": [
-          "trello",
-          "time",
-          "tareas",
-          "timedoctor",
-          "time doctor",
-          "control de asistencia"
-        ],
-        "desc": ""
-      },
-      {
-        "name": "CloudFlare",
-        "percent": "45",
-        "type": "2",
-        "class": "",
-        "curso": false,
-        "cert": false,
-        "search": [
-          "cloudflare",
-          "web",
-          "frontend",
-          "backend",
-          "cdn"
-        ],
-        "desc": ""
-      },
-      {
-        "name": "Adobe XD",
-        "percent": "55",
-        "type": "2",
-        "class": "",
-        "curso": false,
-        "cert": false,
-        "search": [
-          "adobe xd",
-          "editor",
-          "imagenes",
-          "fotos",
-          "fotografia",
-          "edicion",
-          "adobe suite"
-        ],
-        "desc": ""
-      },
-      {
-        "name": "FontAwesome",
-        "percent": "88",
-        "type": "1",
-        "class": "",
-        "curso": false,
-        "cert": false,
-        "search": [
-          "fontawesome",
-          "cdn",
-          "icons",
-          "css",
-          "javascript",
-          "js"
-        ],
-        "desc": ""
-      },
-      {
-        "name": "Tampermonkey",
-        "percent": "75",
-        "type": "1",
-        "class": "",
-        "curso": false,
-        "cert": false,
-        "search": [
-          "userscripts",
-          "tampermonkey",
-          "greasemonkey",
-          "js",
-          "javascript",
-          "css"
-        ],
-        "desc": ""
-      },
-      {
-        "name": "Greasemonkey",
-        "percent": "75",
-        "type": "1",
-        "class": "",
-        "curso": false,
-        "cert": false,
-        "search": [
-          "userscripts",
-          "tampermonkey",
-          "greasemonkey",
-          "js",
-          "javascript",
-          "css"
-        ],
-        "desc": ""
-      },
-      {
-        "name": "Adfly",
-        "percent": "90",
-        "type": "1",
-        "class": "",
-        "curso": false,
-        "cert": false,
-        "search": [
-          "adfly",
-          "ads",
-          "adsense",
-          "publicidad"
-        ],
-        "desc": ""
-      },
-      {
-        "name": "FeedBurner",
-        "percent": "75",
-        "type": "1",
-        "class": "",
-        "curso": false,
-        "cert": false,
-        "search": [
-          "google feedburner",
-          "marketing",
-          "rss",
-          "email"
-        ],
-        "desc": ""
-      },
-      {
-        "name": "Google Analytitcs",
-        "percent": "63",
-        "type": "2",
-        "class": "",
-        "curso": false,
-        "cert": false,
-        "search": [
-          "google analytics",
-          "analisis",
-          "datos",
-          "big data",
-          "adsense",
-          "marketing"
-        ],
-        "desc": ""
-      },
-      {
-        "name": "Google AdSense",
-        "percent": "60",
-        "type": "2",
-        "class": "",
-        "curso": false,
-        "cert": false,
-        "search": [
-          "google ads",
-          "adsense",
-          "publicidad",
-          "marketing"
-        ],
-        "desc": ""
-      },
-      {
-        "name": "Google Ads",
-        "percent": "40",
-        "type": "2",
-        "class": "",
-        "curso": false,
-        "cert": false,
-        "search": [
-          "google ads",
-          "adsense",
-          "publicidad",
-          "marketing"
-        ],
-        "desc": ""
-      },
-      {
-        "name": "Uptime Robot",
-        "percent": "55",
-        "type": "2",
-        "class": "",
-        "curso": false,
-        "cert": false,
-        "search": [
-          "uptime robot",
-          "api",
-          "javascript",
-          "js",
-          "php",
-          "json",
-          "status"
-        ],
-        "desc": ""
-      },
-      {
-        "name": "CiscoVPN",
-        "percent": "70",
-        "type": "2",
-        "class": "",
-        "curso": false,
-        "cert": false,
-        "search": [
-          "ciscovpn",
-          "localhost",
-          "redes"
-        ],
-        "desc": ""
-      },
-      {
-        "name": "Hamachi",
-        "percent": "75",
-        "type": "2",
-        "class": "",
-        "curso": false,
-        "cert": false,
-        "search": [
-          "logmein hamachi",
-          "localhost",
-          "vpn",
-          "redes"
-        ],
-        "desc": ""
-      }
-    ],
-    "multimedia": [
-      {
-        "name": "Photoshop",
-        "percent": "75",
-        "type": "1",
-        "class": "",
-        "curso": true,
-        "cert": false,
-        "search": [
-          "photoshop",
-          "ps",
-          "editor",
-          "imagenes",
-          "fotos",
-          "fotografia",
-          "edicion",
-          "adobe suite"
-        ],
-        "desc": ""
-      },
-      {
-        "name": "Ilustrator",
-        "percent": "55",
-        "type": "2",
-        "class": "",
-        "curso": true,
-        "cert": false,
-        "search": [
-          "ilustrator",
-          "ai",
-          "editor",
-          "imagenes",
-          "fotos",
-          "fotografia",
-          "edicion",
-          "adobe suite"
-        ],
-        "desc": ""
-      },
-      {
-        "name": "FL Studio",
-        "percent": "35",
-        "type": "3",
-        "class": "",
-        "curso": false,
-        "cert": false,
-        "search": [
-          "edicion",
-          "fl studio",
-          "fruit loops",
-          "musica",
-          "produccion",
-          "musical"
-        ],
-        "desc": "Modifico y mezclo canciones que me gustan"
-      },
-      {
-        "name": "Premier",
-        "percent": "15",
-        "type": "3",
-        "class": "",
-        "curso": false,
-        "cert": false,
-        "search": [
-          "edicion",
-          "audiovisual",
-          "premier",
-          "adobe suite",
-          "after effects",
-          "videos"
-        ],
-        "desc": ""
-      },
-      {
-        "name": "After Effects",
-        "percent": "20",
-        "type": "3",
-        "class": "",
-        "curso": false,
-        "cert": false,
-        "search": [
-          "edicion",
-          "audiovisual",
-          "premier",
-          "adobe suite",
-          "after effects",
-          "videos"
-        ],
-        "desc": ""
-      },
-      {
-        "name": "Camtasia Studio",
-        "percent": "90",
-        "type": "1",
-        "class": "",
-        "curso": false,
-        "cert": false,
-        "search": [
-          "edicion",
-          "audiovisual",
-          "camtasia studio",
-          "videos"
-        ],
-        "desc": ""
-      }
-    ],
-    "offimatica": [
-      {
-        "name": "PowerPoint Office MS",
-        "percent": "85",
-        "type": "1",
-        "class": "",
-        "curso": false,
-        "cert": false,
-        "search": [
-          "microsoft",
-          "ms",
-          "office",
-          "ofice",
-          "powerpoint"
-        ],
-        "desc": "Con ayuda de Photoshop, he creado presentaciones muy amigables y claras"
-      },
-      {
-        "name": "Word Office MS",
-        "percent": "50",
-        "type": "2",
-        "class": "",
-        "curso": false,
-        "cert": false,
-        "search": [
-          "microsoft",
-          "ms",
-          "office",
-          "ofice",
-          "word"
-        ],
-        "desc": ""
-      },
-      {
-        "name": "Excel Office MS",
-        "percent": "65",
-        "type": "2",
-        "class": "",
-        "curso": true,
-        "cert": false,
-        "search": [
-          "microsoft",
-          "ms",
-          "office",
-          "ofice",
-          "excel"
-        ],
-        "desc": ""
-      }
-    ],
-    "comunicacion": [
-      {
-        "name": "Slack",
-        "percent": "80",
-        "type": "1",
-        "class": "",
-        "curso": false,
-        "cert": false,
-        "search": [
-          "Slack",
-          "chat",
-          "bot",
-          "conferencias",
-          "automatizacion",
-          "empresarial",
-		  "llamadas",
-        ],
-        "desc": ""
-      },
-      {
-        "name": "Discord",
-        "percent": "85",
-        "type": "1",
-        "class": "",
-        "curso": false,
-        "cert": false,
-        "search": [
-          "discordjs",
-          "bots",
-          "chat",
-          "community",
-          "comunidad",
-          "videoconferencia",
-          "llamadas",
-          "voip"
-        ],
-        "desc": ""
-      },
-      {
-        "name": "Zoom",
-        "percent": "90",
-        "type": "1",
-        "class": "",
-        "curso": true,
-        "cert": true,
-        "search": [
-          "zoom",
-          "chat",
-          "community",
-          "comunidad",
-          "videoconferencia",
-          "llamadas",
-          "voip"
-        ],
-        "desc": ""
-      },
-      {
-        "name": "Google Meets",
-        "percent": "40",
-        "type": "2",
-        "class": "",
-        "curso": false,
-        "cert": false,
-        "search": [
-          "google meets",
-          "chat",
-          "community",
-          "comunidad",
-          "videoconferencia",
-          "llamadas",
-          "voip"
-        ],
-        "desc": ""
-      },
-      {
-        "name": "Telegram Bots",
-        "percent": "55",
-        "type": "1",
-        "class": "",
-        "curso": false,
-        "cert": false,
-        "search": [
-          "telegram",
-          "chat",
-          "bot",
-          "discord",
-          "automatizacion",
-          "empresarial"
-        ],
-        "desc": ""
-      },
-      {
-        "name": "Microsoft Teams",
-        "percent": "40",
-        "type": "2",
-        "class": "",
-        "curso": false,
-        "cert": false,
-        "search": [
-          "Microsoft",
-		  "ms",
-          "chat",
-          "bot",
-          "discord",
-          "automatizacion",
-          "empresarial",
-		  "teams",
-		  "microsoft teams",
-        ],
-        "desc": ""
-      },
-      {
-        "name": "WhatsApp Business",
-        "percent": "65",
-        "type": "2",
-        "class": "",
-        "curso": false,
-        "cert": false,
-        "search": [
-          "whatsapp",
-          "chat",
-          "business",
-          "videoconferencia",
-          "llamadas",
-          "voip",
-          "ms",
-          "microsoft",
-          "empresarial"
-        ],
-        "desc": ""
-      },
-      {
-        "name": "Email Services",
-        "percent": "70",
-        "type": "2",
-        "class": "",
-        "curso": true,
-        "cert": false,
-        "search": [
-          "email",
-          "php",
-          "pop3",
-          "smtp",
-          "imap4",
-          "catching",
-          "marketing"
-        ],
-        "desc": ""
-      },
-      {
-        "name": "Skype",
-        "percent": "50",
-        "type": "3",
-        "class": "",
-        "curso": false,
-        "cert": false,
-        "search": [
-          "skype",
-          "chat",
-          "community",
-          "comunidad",
-          "videoconferencia",
-          "llamadas",
-          "voip",
-          "ms",
-          "microsoft"
-        ],
-        "desc": ""
-      },
-      {
-        "name": "Instagram",
-        "percent": "85",
-        "type": "2",
-        "class": "",
-        "curso": true,
-        "cert": false,
-        "search": [
-          "instagram",
-          "ig",
-          "community",
-          "comunidad"
-        ],
-        "desc": ""
-      }
-    ]
-  },
-  "idiomas": [
-    {
-      "name": "Inglés",
-      "percent": "50",
-      "type": "1",
-      "class": "",
-      "curso": true,
-      "cert": false,
-      "search": [
-        "ingles",
-        "español",
-        "english",
-        "dev",
-        "programador"
-      ],
-      "desc": "Entiendo fácilmente el idioma en el mundo de la informática, pero no soy bueno hablándolo"
-    },
-    {
-      "name": "Lengua de Señas Chilena",
-      "percent": "30",
-      "type": "2",
-      "class": "",
-      "curso": true,
-      "cert": false,
-      "search": [
-        "español",
-        "lengua de señas chilena",
-        "lsch"
-      ],
-      "desc": "Comencé aprendiendo de forma autodidacta, pero no satisfecho con esto, decidí unirme a un grupo de personas que hacen uso diario de esta habilidad y juntos estamos mejorando"
-    }
-  ]
+	"update": "2021-12-03T20:00:00.200Z",
+	"lenguajes": [
+		{
+			"name": "HTML",
+			"percent": "99",
+			"type": "1",
+			"class": "",
+			"curso": true,
+			"cert": true,
+			"search": [
+				"frontend",
+				"web",
+				"html",
+				"html4",
+				"html 4",
+				"html5",
+				"html 5"
+			],
+			"desc": ""
+		},
+		{
+			"name": "CSS",
+			"percent": "98",
+			"type": "1",
+			"class": "",
+			"curso": true,
+			"cert": true,
+			"search": [
+				"frontend",
+				"web",
+				"css2",
+				"css3",
+				"estilos",
+				"hoja de estilos",
+				"style",
+				"userscripts",
+				"ui",
+				"ux"
+			],
+			"desc": "Llevo más de 7 años desarrollando con esta tecnología, a pesar de que me faltan algunas cosas por aprender, siento que puedo hacer y deshacer cualquier diseño con este lenguaje"
+		},
+		{
+			"name": "Javascript",
+			"percent": "95",
+			"type": "1",
+			"class": "",
+			"curso": true,
+			"cert": false,
+			"search": [
+				"frontend",
+				"backend",
+				"web",
+				"js",
+				"javascript",
+				"scripts",
+				"userscripts",
+				"ajax"
+			],
+			"desc": "Me gusta mucho este lenguaje por su gran robustez"
+		},
+		{
+			"name": "PHP",
+			"percent": "85",
+			"type": "1",
+			"class": "",
+			"curso": true,
+			"cert": true,
+			"search": [
+				"backend",
+				"web",
+				"server",
+				"database",
+				"api",
+				"php"
+			],
+			"desc": "He aprendido a optimizar aplicaciones Web utilizando este lenguaje y en Wordpress"
+		},
+		{
+			"name": "jQuery",
+			"percent": "94",
+			"type": "1",
+			"class": "",
+			"curso": false,
+			"cert": false,
+			"search": [
+				"frontend",
+				"web",
+				"javascript",
+				"js",
+				"jquery",
+				"ajax",
+				"frameworks"
+			],
+			"desc": "Aún que me falta mucho por aprender, puedo lograr grandes funcionalidades con esta librería"
+		},
+		{
+			"name": "Bootstrap",
+			"percent": "100",
+			"type": "1",
+			"class": "",
+			"curso": false,
+			"cert": false,
+			"search": [
+				"frontend",
+				"web",
+				"css",
+				"css3",
+				"bootstrap",
+				"estilos",
+				"frameworks",
+				"ui",
+				"ux"
+			],
+			"desc": "He trabajado tanto con esta librería que me manejo muy bien con ella"
+		},
+		{
+			"name": "ReactJS",
+			"percent": "75",
+			"type": "1",
+			"class": "",
+			"curso": true,
+			"cert": false,
+			"desc": "",
+			"search": [
+				"frontend",
+				"web",
+				"js",
+				"javascript",
+				"react",
+				"reactjs",
+				"react native",
+				"frameworks"
+			]
+		},
+		{
+			"name": "Angular",
+			"percent": "85",
+			"type": "1",
+			"class": "",
+			"curso": true,
+			"cert": false,
+			"search": [
+				"frontend",
+				"web",
+				"js",
+				"javascript",
+				"angular",
+				"angularjs",
+				"angular7",
+				"angular9",
+				"angular12",
+				"ng",
+				"frameworks"
+			],
+			"desc": ""
+		},
+		{
+			"name": "Angular Material",
+			"percent": "55",
+			"type": "1",
+			"class": "",
+			"curso": false,
+			"cert": false,
+			"search": [
+				"frontend",
+				"web",
+				"js",
+				"javascript",
+				"angular",
+				"angularjs",
+				"angular7",
+				"angular9",
+				"angular12",
+				"ng",
+				"frameworks"
+			],
+			"desc": ""
+		},
+		{
+			"name": "VueJS",
+			"percent": "25",
+			"type": "2",
+			"class": "",
+			"curso": false,
+			"cert": false,
+			"search": [
+				"frontend",
+				"web",
+				"javascript",
+				"vuejs",
+				"frameworks"
+			],
+			"desc": ""
+		},
+		{
+			"name": "Python",
+			"percent": "40",
+			"type": "2",
+			"class": "",
+			"curso": true,
+			"cert": false,
+			"search": [
+				"py",
+				"python",
+				"machine learning",
+				"bots",
+				"pip",
+				"api"
+			],
+			"desc": "He creado algunos Bots de automatización de actividades, para optimizar mi tiempo y productividad"
+		},
+		{
+			"name": "CakePHP",
+			"percent": "50",
+			"type": "2",
+			"class": "",
+			"curso": false,
+			"cert": false,
+			"search": [
+				"backend",
+				"web",
+				"php",
+				"framework",
+				"frameworks",
+				"cakephp",
+				"server"
+			],
+			"desc": ""
+		},
+		{
+			"name": "Laravel",
+			"percent": "50",
+			"type": "2",
+			"class": "",
+			"curso": true,
+			"cert": false,
+			"search": [
+				"backend",
+				"web",
+				"php",
+				"frameworks",
+				"laravel",
+				"server"
+			],
+			"desc": ""
+		},
+		{
+			"name": "JAVA",
+			"percent": "65",
+			"type": "1",
+			"class": "",
+			"curso": true,
+			"cert": false,
+			"search": [
+				"backend",
+				"app",
+				"aplication",
+				"android",
+				"java",
+				"springboot",
+				"meaven",
+				"api"
+			],
+			"desc": ""
+		},
+		{
+			"name": "SQL",
+			"percent": "80",
+			"type": "1",
+			"class": "",
+			"curso": true,
+			"cert": true,
+			"search": [
+				"backend",
+				"database",
+				"php",
+				"mysql",
+				"sql server"
+			],
+			"desc": ""
+		},
+		{
+			"name": "Sybase",
+			"percent": "75",
+			"type": "1",
+			"class": "",
+			"curso": false,
+			"cert": false,
+			"search": [
+				"backend",
+				"database",
+				"php",
+				"mysql",
+				"sql server"
+			],
+			"desc": ""
+		},
+		{
+			"name": "C++",
+			"percent": "30",
+			"type": "3",
+			"class": "",
+			"curso": false,
+			"cert": false,
+			"search": [
+				"applicacion",
+				"app",
+				"c",
+				"c++"
+			],
+			"desc": ""
+		},
+		{
+			"name": "AutoHotKey",
+			"percent": "45",
+			"type": "2",
+			"class": "",
+			"curso": false,
+			"cert": false,
+			"search": [
+				"applicacion",
+				"app",
+				"autohotkey",
+				"ahk",
+				"script",
+				"automatizacion",
+				"automatico",
+				"bots"
+			],
+			"desc": "He creado algunos Scripts de automatización y de utilidad para uso propio"
+		},
+		{
+			"name": "JSON",
+			"percent": "100",
+			"type": "1",
+			"class": "",
+			"curso": false,
+			"cert": false,
+			"search": [
+				"api",
+				"javascript",
+				"java",
+				"php",
+				"json",
+				"jquery",
+				"js",
+				"python"
+			],
+			"desc": ""
+		},
+		{
+			"name": "MarkDown",
+			"percent": "100",
+			"type": "1",
+			"class": "",
+			"curso": true,
+			"cert": false,
+			"search": [
+				"markdown",
+				"md",
+				"preprocesadores",
+				"html"
+			],
+			"desc": ""
+		},
+		{
+			"name": "Sass",
+			"percent": "80",
+			"type": "1",
+			"class": "",
+			"curso": false,
+			"cert": false,
+			"search": [
+				"frontend",
+				"web",
+				"sass",
+				"preprocesadores",
+				"css2",
+				"css3",
+				"estilos",
+				"hoja de estilos",
+				"style",
+				"userscripts",
+				"ui",
+				"ux",
+				"nodejs",
+				"less"
+			],
+			"desc": ""
+		},
+		{
+			"name": "SweetAlert",
+			"percent": "90",
+			"type": "1",
+			"class": "",
+			"curso": false,
+			"cert": false,
+			"search": [
+				"sweetalert2",
+				"swal2",
+				"javascritp",
+				"js",
+				"css",
+				"ui",
+				"ux",
+				"frontend"
+			],
+			"desc": ""
+		},
+		{
+			"name": "Animate.css",
+			"percent": "75",
+			"type": "2",
+			"class": "",
+			"curso": false,
+			"cert": false,
+			"search": [
+				"animate.css",
+				"animacion",
+				"css",
+				"ui",
+				"ux",
+				"frontend"
+			],
+			"desc": ""
+		},
+		{
+			"name": "Moment.js",
+			"percent": "75",
+			"type": "1",
+			"class": "",
+			"curso": false,
+			"cert": false,
+			"search": [
+				"js",
+				"javascript",
+				"moment",
+				"time",
+				"frontend"
+			],
+			"desc": ""
+		},
+		{
+			"name": "Chart.js",
+			"percent": "65",
+			"type": "1",
+			"class": "",
+			"curso": false,
+			"cert": false,
+			"search": [
+				"js",
+				"javascript",
+				"chart",
+				"graficos",
+				"frontend"
+			],
+			"desc": ""
+		}
+	],
+	"software": {
+		"dev": [
+			{
+				"name": "VisualCode Studio",
+				"percent": "95",
+				"type": "1",
+				"class": "",
+				"curso": false,
+				"cert": false,
+				"search": [
+					"vscode",
+					"code",
+					"visual studio code",
+					"visual",
+					"studio",
+					"editor",
+					"ide"
+				],
+				"desc": "He creado mis propias modificaciones para el programa"
+			},
+			{
+				"name": "GIT",
+				"percent": "85",
+				"type": "1",
+				"class": "",
+				"curso": true,
+				"cert": true,
+				"search": [
+					"gh",
+					"github",
+					"git",
+					"control de versiones",
+					"gitlab"
+				],
+				"desc": ""
+			},
+			{
+				"name": "GitHub",
+				"percent": "80",
+				"type": "1",
+				"class": "",
+				"curso": true,
+				"cert": true,
+				"search": [
+					"gh",
+					"github",
+					"git",
+					"versiones",
+					"control de versiones",
+					"gitlab"
+				],
+				"desc": "Hago uso frecuente de esta plataforma"
+			},
+			{
+				"name": "GitLab",
+				"percent": "80",
+				"type": "1",
+				"class": "",
+				"curso": false,
+				"cert": false,
+				"search": [
+					"gh",
+					"github",
+					"git",
+					"versiones",
+					"control de versiones",
+					"gitlab"
+				],
+				"desc": ""
+			},
+			{
+				"name": "BitBucket",
+				"percent": "65",
+				"type": "2",
+				"class": "",
+				"curso": false,
+				"cert": false,
+				"search": [
+					"bitbucket",
+					"github",
+					"gitlab",
+					"git",
+					"control de versiones"
+				],
+				"desc": ""
+			},
+			{
+				"name": "Docker",
+				"percent": "35",
+				"type": "3",
+				"class": "",
+				"curso": true,
+				"cert": false,
+				"search": [
+					"docker",
+					"contenedores"
+				],
+				"desc": ""
+			},
+			{
+				"name": "NodeJS",
+				"percent": "70",
+				"type": "1",
+				"class": "",
+				"curso": false,
+				"cert": false,
+				"search": [
+					"backend",
+					"frontend",
+					"web",
+					"javascript",
+					"nodejs",
+					"yarn",
+					"npm"
+				],
+				"desc": ""
+			},
+			{
+				"name": "NPM",
+				"percent": "80",
+				"type": "1",
+				"class": "",
+				"curso": false,
+				"cert": false,
+				"search": [
+					"backend",
+					"frontend",
+					"web",
+					"javascript",
+					"nodejs",
+					"yarn",
+					"npm"
+				],
+				"desc": ""
+			},
+			{
+				"name": "MySQL",
+				"percent": "95",
+				"type": "1",
+				"class": "",
+				"curso": true,
+				"cert": true,
+				"search": [
+					"backend",
+					"database",
+					"db",
+					"sql",
+					"mysql",
+					"sql server",
+					"dbartisan"
+				],
+				"desc": ""
+			},
+			{
+				"name": "Embarcadero DBArtisan",
+				"percent": "70",
+				"type": "1",
+				"class": "",
+				"curso": false,
+				"cert": false,
+				"search": [
+					"backend",
+					"database",
+					"db",
+					"sql",
+					"mysql",
+					"sql server",
+					"dbartisan"
+				],
+				"desc": ""
+			},
+			{
+				"name": "SQL Server",
+				"percent": "35",
+				"type": "3",
+				"class": "",
+				"curso": false,
+				"cert": false,
+				"search": [
+					"backend",
+					"database",
+					"db",
+					"sql",
+					"mysql",
+					"sql server",
+					"dbartisan"
+				],
+				"desc": ""
+			},
+			{
+				"name": "WordPress",
+				"percent": "80",
+				"type": "2",
+				"class": "",
+				"curso": false,
+				"cert": false,
+				"search": [
+					"cms",
+					"wordpress",
+					"web",
+					"php",
+					"html",
+					"css",
+					"plugins",
+					"temas",
+					"frameworks",
+					"web",
+					"frontend",
+					"backend",
+					"wp"
+				],
+				"desc": ""
+			},
+			{
+				"name": "Userscripts",
+				"percent": "98",
+				"type": "1",
+				"class": "",
+				"curso": false,
+				"cert": false,
+				"search": [
+					"userscripts",
+					"frontend",
+					"javascript",
+					"js",
+					"jquery",
+					"tampermonkey",
+					"greasemonkey",
+					"darkgreen",
+					"css"
+				],
+				"desc": "Hago uso frecuente de este Addon para modificar las páginas web que utilizo frecuentemente, ya sea para funcionalidad o para personalizar el estilo"
+			},
+			{
+				"name": "FileZilla",
+				"percent": "50",
+				"type": "2",
+				"class": "",
+				"curso": false,
+				"cert": false,
+				"search": [
+					"filezilla",
+					"ftp",
+					"server",
+					"archivos"
+				],
+				"desc": ""
+			},
+			{
+				"name": "Eclipse",
+				"percent": "38",
+				"type": "3",
+				"class": "",
+				"curso": false,
+				"cert": false,
+				"search": [
+					"ide",
+					"desarrollo",
+					"java",
+					"code",
+					"editor",
+					"eclipse",
+					"springboot",
+					"maven",
+					"backend"
+				],
+				"desc": ""
+			},
+			{
+				"name": "SpringBoot",
+				"percent": "38",
+				"type": "3",
+				"class": "",
+				"curso": false,
+				"cert": false,
+				"search": [
+					"ide",
+					"desarrollo",
+					"java",
+					"code",
+					"editor",
+					"eclipse",
+					"springboot",
+					"maven",
+					"backend"
+				],
+				"desc": ""
+			},
+			{
+				"name": "NetBeans",
+				"percent": "38",
+				"type": "3",
+				"class": "",
+				"curso": false,
+				"cert": false,
+				"search": [
+					"ide",
+					"desarrollo",
+					"java",
+					"code",
+					"editor",
+					"backend"
+				],
+				"desc": ""
+			},
+			{
+				"name": "DagTools",
+				"percent": "40",
+				"type": "1",
+				"class": "",
+				"curso": false,
+				"cert": false,
+				"search": [
+					"ide",
+					"desarrollo",
+					"visualbasic4",
+					"code",
+					"editor",
+					"backend"
+				],
+				"desc": ""
+			},
+			{
+				"name": "Notepad++",
+				"percent": "83",
+				"type": "1",
+				"class": "",
+				"curso": false,
+				"cert": false,
+				"search": [
+					"ide",
+					"desarrollo",
+					"text",
+					"code",
+					"editor"
+				],
+				"desc": ""
+			},
+			{
+				"name": "cPanel",
+				"percent": "95",
+				"type": "1",
+				"class": "",
+				"curso": false,
+				"cert": false,
+				"search": [
+					"cpanel",
+					"panel de control",
+					"web",
+					"frontend",
+					"backend",
+					"whm"
+				],
+				"desc": ""
+			},
+			{
+				"name": "WHM",
+				"percent": "80",
+				"type": "3",
+				"class": "",
+				"curso": false,
+				"cert": false,
+				"search": [
+					"cpanel",
+					"panel de control",
+					"web",
+					"frontend",
+					"backend",
+					"whm"
+				],
+				"desc": ""
+			},
+			{
+				"name": "reCaptcha",
+				"percent": "70",
+				"type": "3",
+				"class": "",
+				"curso": false,
+				"cert": false,
+				"search": [
+					"google",
+					"captcha",
+					"recaptcha",
+					"jtcaptcha",
+					"js",
+					"javascript",
+					"php",
+					"reactjs",
+					"hcaptcha"
+				],
+				"desc": ""
+			},
+			{
+				"name": "hCaptcha",
+				"percent": "90",
+				"type": "1",
+				"class": "",
+				"curso": false,
+				"cert": false,
+				"search": [
+					"hcaptcha",
+					"recaptcha",
+					"jtcaptcha",
+					"js",
+					"javascript",
+					"php",
+					"reactjs",
+					"nodejs",
+					"cloudflare"
+				],
+				"desc": ""
+			},
+			{
+				"name": "SEO",
+				"percent": "75",
+				"type": "1",
+				"class": "",
+				"curso": false,
+				"cert": false,
+				"search": [
+					"frontend",
+					"web",
+					"html",
+					"meta",
+					"tags",
+					"seo",
+					"search",
+					"buscador",
+					"engine",
+					"optimizacion"
+				],
+				"desc": "Investigo mucho al respecto"
+			},
+			{
+				"name": "Ajax",
+				"percent": "60",
+				"type": "2",
+				"class": "",
+				"curso": false,
+				"cert": false,
+				"search": [
+					"frontend",
+					"web",
+					"javascritp",
+					"js",
+					"jquery",
+					"userscripts",
+					"ajax",
+					"xmlhttprequest"
+				],
+				"desc": ""
+			},
+			{
+				"name": "Trello",
+				"percent": "70",
+				"type": "1",
+				"class": "",
+				"curso": false,
+				"cert": false,
+				"search": [
+					"trello",
+					"time",
+					"tareas",
+					"scrum agile"
+				],
+				"desc": "Hago uso frecuente de esta plataforma para administrar de forma optima mis actividades y las de mis proyectos"
+			},
+			{
+				"name": "Sketch",
+				"percent": "60",
+				"type": "2",
+				"class": "",
+				"curso": true,
+				"cert": false,
+				"search": [
+					"sketch",
+					"animaciones",
+					"animations",
+					"css"
+				],
+				"desc": ""
+			},
+			{
+				"name": "TimeDoctor Client",
+				"percent": "80",
+				"type": "3",
+				"class": "",
+				"curso": false,
+				"cert": false,
+				"search": [
+					"trello",
+					"time",
+					"tareas",
+					"timedoctor",
+					"time doctor",
+					"control de asistencia"
+				],
+				"desc": ""
+			},
+			{
+				"name": "BioSign",
+				"percent": "90",
+				"type": "1",
+				"class": "",
+				"curso": false,
+				"cert": false,
+				"search": [
+					"trello",
+					"time",
+					"tareas",
+					"timedoctor",
+					"time doctor",
+					"control de asistencia"
+				],
+				"desc": ""
+			},
+			{
+				"name": "CloudFlare",
+				"percent": "45",
+				"type": "2",
+				"class": "",
+				"curso": false,
+				"cert": false,
+				"search": [
+					"cloudflare",
+					"web",
+					"frontend",
+					"backend",
+					"cdn"
+				],
+				"desc": ""
+			},
+			{
+				"name": "Adobe XD",
+				"percent": "55",
+				"type": "2",
+				"class": "",
+				"curso": false,
+				"cert": false,
+				"search": [
+					"adobe xd",
+					"editor",
+					"imagenes",
+					"fotos",
+					"fotografia",
+					"edicion",
+					"adobe suite"
+				],
+				"desc": ""
+			},
+			{
+				"name": "FontAwesome",
+				"percent": "88",
+				"type": "1",
+				"class": "",
+				"curso": false,
+				"cert": false,
+				"search": [
+					"fontawesome",
+					"cdn",
+					"icons",
+					"css",
+					"javascript",
+					"js"
+				],
+				"desc": ""
+			},
+			{
+				"name": "Tampermonkey",
+				"percent": "75",
+				"type": "1",
+				"class": "",
+				"curso": false,
+				"cert": false,
+				"search": [
+					"userscripts",
+					"tampermonkey",
+					"greasemonkey",
+					"js",
+					"javascript",
+					"css"
+				],
+				"desc": ""
+			},
+			{
+				"name": "Greasemonkey",
+				"percent": "75",
+				"type": "1",
+				"class": "",
+				"curso": false,
+				"cert": false,
+				"search": [
+					"userscripts",
+					"tampermonkey",
+					"greasemonkey",
+					"js",
+					"javascript",
+					"css"
+				],
+				"desc": ""
+			},
+			{
+				"name": "Adfly",
+				"percent": "90",
+				"type": "1",
+				"class": "",
+				"curso": false,
+				"cert": false,
+				"search": [
+					"adfly",
+					"ads",
+					"adsense",
+					"publicidad"
+				],
+				"desc": ""
+			},
+			{
+				"name": "FeedBurner",
+				"percent": "75",
+				"type": "1",
+				"class": "",
+				"curso": false,
+				"cert": false,
+				"search": [
+					"google feedburner",
+					"marketing",
+					"rss",
+					"email"
+				],
+				"desc": ""
+			},
+			{
+				"name": "Google Analytitcs",
+				"percent": "63",
+				"type": "2",
+				"class": "",
+				"curso": false,
+				"cert": false,
+				"search": [
+					"google analytics",
+					"analisis",
+					"datos",
+					"big data",
+					"adsense",
+					"marketing"
+				],
+				"desc": ""
+			},
+			{
+				"name": "Google AdSense",
+				"percent": "60",
+				"type": "2",
+				"class": "",
+				"curso": false,
+				"cert": false,
+				"search": [
+					"google ads",
+					"adsense",
+					"publicidad",
+					"marketing"
+				],
+				"desc": ""
+			},
+			{
+				"name": "Google Ads",
+				"percent": "40",
+				"type": "2",
+				"class": "",
+				"curso": false,
+				"cert": false,
+				"search": [
+					"google ads",
+					"adsense",
+					"publicidad",
+					"marketing"
+				],
+				"desc": ""
+			},
+			{
+				"name": "Uptime Robot",
+				"percent": "55",
+				"type": "2",
+				"class": "",
+				"curso": false,
+				"cert": false,
+				"search": [
+					"uptime robot",
+					"api",
+					"javascript",
+					"js",
+					"php",
+					"json",
+					"status"
+				],
+				"desc": ""
+			},
+			{
+				"name": "CiscoVPN",
+				"percent": "70",
+				"type": "2",
+				"class": "",
+				"curso": false,
+				"cert": false,
+				"search": [
+					"ciscovpn",
+					"localhost",
+					"redes"
+				],
+				"desc": ""
+			},
+			{
+				"name": "Hamachi",
+				"percent": "75",
+				"type": "2",
+				"class": "",
+				"curso": false,
+				"cert": false,
+				"search": [
+					"logmein hamachi",
+					"localhost",
+					"vpn",
+					"redes"
+				],
+				"desc": ""
+			}
+		],
+		"multimedia": [
+			{
+				"name": "Photoshop",
+				"percent": "75",
+				"type": "1",
+				"class": "",
+				"curso": true,
+				"cert": false,
+				"search": [
+					"photoshop",
+					"ps",
+					"editor",
+					"imagenes",
+					"fotos",
+					"fotografia",
+					"edicion",
+					"adobe suite"
+				],
+				"desc": ""
+			},
+			{
+				"name": "Ilustrator",
+				"percent": "55",
+				"type": "2",
+				"class": "",
+				"curso": true,
+				"cert": false,
+				"search": [
+					"ilustrator",
+					"ai",
+					"editor",
+					"imagenes",
+					"fotos",
+					"fotografia",
+					"edicion",
+					"adobe suite"
+				],
+				"desc": ""
+			},
+			{
+				"name": "FL Studio",
+				"percent": "35",
+				"type": "3",
+				"class": "",
+				"curso": false,
+				"cert": false,
+				"search": [
+					"edicion",
+					"fl studio",
+					"fruit loops",
+					"musica",
+					"produccion",
+					"musical"
+				],
+				"desc": "Modifico y mezclo canciones que me gustan"
+			},
+			{
+				"name": "Premier",
+				"percent": "15",
+				"type": "3",
+				"class": "",
+				"curso": false,
+				"cert": false,
+				"search": [
+					"edicion",
+					"audiovisual",
+					"premier",
+					"adobe suite",
+					"after effects",
+					"videos"
+				],
+				"desc": ""
+			},
+			{
+				"name": "After Effects",
+				"percent": "20",
+				"type": "3",
+				"class": "",
+				"curso": false,
+				"cert": false,
+				"search": [
+					"edicion",
+					"audiovisual",
+					"premier",
+					"adobe suite",
+					"after effects",
+					"videos"
+				],
+				"desc": ""
+			},
+			{
+				"name": "Camtasia Studio",
+				"percent": "90",
+				"type": "1",
+				"class": "",
+				"curso": false,
+				"cert": false,
+				"search": [
+					"edicion",
+					"audiovisual",
+					"camtasia studio",
+					"videos"
+				],
+				"desc": ""
+			}
+		],
+		"offimatica": [
+			{
+				"name": "PowerPoint Office MS",
+				"percent": "85",
+				"type": "1",
+				"class": "",
+				"curso": false,
+				"cert": false,
+				"search": [
+					"microsoft",
+					"ms",
+					"office",
+					"ofice",
+					"powerpoint"
+				],
+				"desc": "Con ayuda de Photoshop, he creado presentaciones muy amigables y claras"
+			},
+			{
+				"name": "Word Office MS",
+				"percent": "50",
+				"type": "2",
+				"class": "",
+				"curso": false,
+				"cert": false,
+				"search": [
+					"microsoft",
+					"ms",
+					"office",
+					"ofice",
+					"word"
+				],
+				"desc": ""
+			},
+			{
+				"name": "Excel Office MS",
+				"percent": "65",
+				"type": "2",
+				"class": "",
+				"curso": true,
+				"cert": false,
+				"search": [
+					"microsoft",
+					"ms",
+					"office",
+					"ofice",
+					"excel"
+				],
+				"desc": ""
+			}
+		],
+		"comunicacion": [
+			{
+				"name": "Slack",
+				"percent": "80",
+				"type": "1",
+				"class": "",
+				"curso": false,
+				"cert": false,
+				"search": [
+					"Slack",
+					"chat",
+					"bot",
+					"conferencias",
+					"automatizacion",
+					"empresarial",
+					"llamadas"
+				],
+				"desc": ""
+			},
+			{
+				"name": "Discord",
+				"percent": "85",
+				"type": "1",
+				"class": "",
+				"curso": false,
+				"cert": false,
+				"search": [
+					"discordjs",
+					"bots",
+					"chat",
+					"community",
+					"comunidad",
+					"videoconferencia",
+					"llamadas",
+					"voip"
+				],
+				"desc": ""
+			},
+			{
+				"name": "Zoom",
+				"percent": "90",
+				"type": "1",
+				"class": "",
+				"curso": true,
+				"cert": true,
+				"search": [
+					"zoom",
+					"chat",
+					"community",
+					"comunidad",
+					"videoconferencia",
+					"llamadas",
+					"voip"
+				],
+				"desc": ""
+			},
+			{
+				"name": "Google Meets",
+				"percent": "40",
+				"type": "2",
+				"class": "",
+				"curso": false,
+				"cert": false,
+				"search": [
+					"google meets",
+					"chat",
+					"community",
+					"comunidad",
+					"videoconferencia",
+					"llamadas",
+					"voip"
+				],
+				"desc": ""
+			},
+			{
+				"name": "Telegram Bots",
+				"percent": "55",
+				"type": "1",
+				"class": "",
+				"curso": false,
+				"cert": false,
+				"search": [
+					"telegram",
+					"chat",
+					"bot",
+					"discord",
+					"automatizacion",
+					"empresarial"
+				],
+				"desc": ""
+			},
+			{
+				"name": "Microsoft Teams",
+				"percent": "40",
+				"type": "2",
+				"class": "",
+				"curso": false,
+				"cert": false,
+				"search": [
+					"Microsoft",
+					"ms",
+					"chat",
+					"bot",
+					"discord",
+					"automatizacion",
+					"empresarial",
+					"teams",
+					"microsoft teams"
+				],
+				"desc": ""
+			},
+			{
+				"name": "WhatsApp Business",
+				"percent": "65",
+				"type": "2",
+				"class": "",
+				"curso": false,
+				"cert": false,
+				"search": [
+					"whatsapp",
+					"chat",
+					"business",
+					"videoconferencia",
+					"llamadas",
+					"voip",
+					"ms",
+					"microsoft",
+					"empresarial"
+				],
+				"desc": ""
+			},
+			{
+				"name": "Email Services",
+				"percent": "70",
+				"type": "2",
+				"class": "",
+				"curso": true,
+				"cert": false,
+				"search": [
+					"email",
+					"php",
+					"pop3",
+					"smtp",
+					"imap4",
+					"catching",
+					"marketing"
+				],
+				"desc": ""
+			},
+			{
+				"name": "Skype",
+				"percent": "50",
+				"type": "3",
+				"class": "",
+				"curso": false,
+				"cert": false,
+				"search": [
+					"skype",
+					"chat",
+					"community",
+					"comunidad",
+					"videoconferencia",
+					"llamadas",
+					"voip",
+					"ms",
+					"microsoft"
+				],
+				"desc": ""
+			},
+			{
+				"name": "Instagram",
+				"percent": "85",
+				"type": "2",
+				"class": "",
+				"curso": true,
+				"cert": false,
+				"search": [
+					"instagram",
+					"ig",
+					"community",
+					"comunidad"
+				],
+				"desc": ""
+			}
+		]
+	},
+	"idiomas": [
+		{
+			"name": "Inglés",
+			"percent": "50",
+			"type": "1",
+			"class": "",
+			"curso": true,
+			"cert": false,
+			"search": [
+				"ingles",
+				"español",
+				"english",
+				"dev",
+				"programador"
+			],
+			"desc": "Entiendo fácilmente el idioma en el mundo de la informática, pero no soy bueno hablándolo"
+		},
+		{
+			"name": "Lengua de Señas Chilena",
+			"percent": "30",
+			"type": "2",
+			"class": "",
+			"curso": true,
+			"cert": false,
+			"search": [
+				"español",
+				"lengua de señas chilena",
+				"lsch"
+			],
+			"desc": "Comencé aprendiendo de forma autodidacta, pero no satisfecho con esto, decidí unirme a un grupo de personas que hacen uso diario de esta habilidad y juntos estamos mejorando"
+		}
+	]
 }
